@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
+    <title>MLH Localhost Map</title>
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/style.css" />
+
+    <style></style>
+  </head>
+  <body>
+    <nav class="navbar fixed-top topbar-custom">
+      <div class="container-fluid">
+        <div class="navbar-header flex-topbar">
+          <a class="navbar-brand" href="#">
+            <img alt="mlh-logo" src="/static/logo.svg" />
+          </a>
+          <p class="navbar-text">MLH Localhost Hometowns</p>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div id="map"></div>
+    </div>
+
+    <script>
+      function initMap() {
+        var bounds = new google.maps.LatLngBounds();
+
+        var map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 8,
+          mapTypeId: "roadmap"
+        });
+
+        locations.forEach(function(location, i) {
+          const position = new google.maps.LatLng(location.lat, location.lng);
+          bounds.extend(position);
+
+          // Add a marker
+          new google.maps.Marker({
+            position,
+            map
+          });
+        });
+
+        map.fitBounds(bounds);
+        map.panToBounds(bounds);
+
+        // Adjust zoom level when there are few markers (or none)
+        if (locations.length < 3) {
+          google.maps.event.addListenerOnce(map, "bounds_changed", function() {
+            map.setCenter(bounds.getCenter());
+            map.setZoom(locations.length + 3);
+          });
+        }
+      }
+
+      var locations = JSON.parse('<%- JSON.stringify(locations) %>'); // Parses locations from server and make them available to be plotted in the map
+    </script>
+
+    <script
+      async
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=<%= apiKey %>&callback=initMap"
+    ></script>
+  </body>
+</html>

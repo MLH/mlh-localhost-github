@@ -1,0 +1,42 @@
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.topbar-custom {
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+
+.flex-topbar {
+  align-items: baseline;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 65%;
+}
+
+.flex-topbar .navbar-text {
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.container {
+  height: 100%;
+  margin: 0;
+  max-width: none;
+  padding: 0;
+  width: 100%;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}

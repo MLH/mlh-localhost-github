@@ -1,0 +1,32 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "display participant locations in a map",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLH/localhost-github.git"
+  },
+  "author": "Halisson Bruno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MLH/localhost-github/issues"
+  },
+  "homepage": "https://github.com/MLH/localhost-github#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "node-geocoder": "^3.22.0"
+  }
+}
