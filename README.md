@@ -1,10 +1,21 @@
-# Participants' Home Towns
+# MLH Localhost Hometown Map
+This repository contains the source code for a map of the hometowns of anyone who attends the MLH Localhost workshop, How to Collaborate on Code Projects with GitHub. Participants learn best practice GitHub workflows, add their hometown to `locations.txt`, and see the giant community they're part of!
 
-## Tecnologies used in this project
+## How to participate in this workshop
 
-## NodeJS
+1. Make a GitHub account.
+2. Fork this repository.
+3. Add your hometown to `locations.txt`.
+4. Commit your changes and make a pull request.
+5. Ask someone else to comment on your pull request.
+6. Wait for the workshop organizer to approve your pull request.
+7. Refresh the map!
 
-Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices. NodeJS was the platform in which we built this application.
+## Technologies used in this project
+
+### NodeJS
+
+The map itself is a Node.js application. Node.js allows us to write full-stack
 
 ## NPM packages used
 
@@ -24,13 +35,13 @@ Node library for geocoding and reverse geocoding.
 
 Embedded JavaScript templates
 
-## Prerequisites to run this application:
+## Try the application locally, if you want!
 
 ### Google Maps API Key
 
 To use the Google Maps JavaScript API, you will ned an API Key.  The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
 
-Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key) 
+Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 
 ## Adding a new location
