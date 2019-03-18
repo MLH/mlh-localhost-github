@@ -1,9 +1,13 @@
 Phoenix, Arizona
+
 Lake Hiawatha, New Jersey
+
 Denver, Colorado
 
 Moscow, Russia
+
 Milwaukee, Wisconsin
+
 Elmhurst, Illinois
 
 New York, USA
@@ -77,12 +81,11 @@ Long Island City, New York
 Kowloon, Hong Kong
 
 Irvington, New Jersey
-<<<<<<< HEAD
 
-=======
 Huntington, New York
+
 Parsippany, New Jersey
->>>>>>> 4144244787874cf48fcf788312aea68848e75370
+
 Haworth, NJ
 
 Haworth, New Jersey
