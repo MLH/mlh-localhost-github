@@ -19,6 +19,7 @@ Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
 Tulsa, Oklahoma
+Queens, Ny
 Bavaria, Germany
 Jamaica, New York
 Ambato,Ecuador
@@ -38,3 +39,7 @@ Long Island City, New York
 Kowloon, Hong Kong
 Irvington, New Jersey
 Parsippany, New Jersey
+Haworth, NJ
+Haworth, New Jersey
+New York, NY
+Rockville, Maryland
