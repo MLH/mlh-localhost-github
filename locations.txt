@@ -1,12 +1,21 @@
 Phoenix, Arizona
+
 Denver, Colorado
+
 Moscow, Russia
+
 Elmhurst, Illinois
+
 New York, USA
+
 Tokyo, Japan
+
 Paris, France
+
 Montreal, Canada
+
 Goiania, Brazil
+
 Vienna, Austria
 Melbourne, Australia
 Osaka, Japan
@@ -34,10 +43,11 @@ Gopaltila, Sylhet, Bangladesh
 NY, NY
 Manila, Philippines
 Cali, Colombia
-Brooklyn, New York 
+Brooklyn, New York
 Long Island City, New York
 Kowloon, Hong Kong
 Irvington, New Jersey
+Huntington, New York
 Parsippany, New Jersey
 Haworth, NJ
 Haworth, New Jersey
