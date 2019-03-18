@@ -9,6 +9,7 @@ Montreal, Canada
 Goiania, Brazil
 Vienna, Austria
 Melbourne, Australia
+
 Osaka, Japan
 Calgary, Canada
 Sydney, Australia
@@ -19,6 +20,7 @@ Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
 Tulsa, Oklahoma
+Queens, Ny
 Bavaria, Germany
 Jamaica, New York
 Ambato,Ecuador
