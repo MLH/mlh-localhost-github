@@ -9,7 +9,6 @@ Montreal, Canada
 Goiania, Brazil
 Vienna, Austria
 Melbourne, Australia
-
 Osaka, Japan
 Calgary, Canada
 Sydney, Australia
@@ -39,4 +38,5 @@ Brooklyn, New York
 Long Island City, New York
 Kowloon, Hong Kong
 Irvington, New Jersey
+New York, NY
 Rockville, Maryland
