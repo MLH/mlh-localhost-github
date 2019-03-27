@@ -48,7 +48,7 @@ Bavaria, Germany
 
 Jamaica, New York
 
-Ambato,Ecuador
+Ambato, Ecuador
 
 Binghamton, New York
 
@@ -76,13 +76,11 @@ Kowloon, Hong Kong
 
 Irvington, New Jersey
 
-Huntington, New York
-
 Parsippany, New Jersey
 
-Haworth, NJ
-
 Haworth, New Jersey
+
+Huntington, New York
 
 New York, NY
 
