@@ -2,9 +2,10 @@ const fs = require("fs");
 const NodeGeocoder = require("node-geocoder");
 
 var options = {
-  provider: "google",
+  provider: "here",
   httpAdapter: "https",
-  apiKey: process.env.GOOGLE_API_KEY,
+  appId: process.env.HERE_APP_ID,
+  appCode: process.env.HERE_APP_CODE
 };
 
 var geocoder = NodeGeocoder(options);
