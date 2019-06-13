@@ -97,3 +97,5 @@ Ahmedabad,India
 simla,india
 
 Vadodara, India
+
+Nakuru, Kenya
