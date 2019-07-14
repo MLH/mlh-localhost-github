@@ -101,3 +101,5 @@ simla,india
 Vadodara, India
 
 Nakuru, Kenya
+
+Indore,India
