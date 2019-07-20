@@ -101,3 +101,11 @@ simla,india
 Vadodara, India
 
 Nakuru, Kenya
+
+Bauchi,Nigeria
+
+Lagos,Nigeria
+
+Maiduguri,Nigeria
+
+Abuja,Nigeria
