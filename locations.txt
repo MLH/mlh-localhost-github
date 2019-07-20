@@ -101,3 +101,6 @@ simla,india
 Vadodara, India
 
 Nakuru, Kenya
+maiduguri nigeria
+jalingo Nigeria
+abuja nigeria
