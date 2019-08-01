@@ -64,7 +64,7 @@ To run this application locally, you'll need to:
 
 * Clone this repository:
 ```
-git clone https://github.com/MLH/localhost-github.git
+git clone https://github.com/MLH/mlh-localhost-github.git
 cd localhost-github
 npm install
 ```
