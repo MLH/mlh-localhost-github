@@ -18,6 +18,8 @@ New York, USA
 
 Paris, France
 
+
+
 Montreal, Canada
 
 Goiania, Brazil
@@ -103,3 +105,5 @@ Vadodara, India
 Nakuru, Kenya
 
 Anand,India
+
+Lhasa, Tibet
