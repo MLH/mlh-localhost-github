@@ -84,11 +84,15 @@ Parsippany, New Jersey
 
 Haworth, New Jersey
 
+Dhaka, Bangladesh
+
 Huntington, New York
 
 New York, NY
 
 Rockville, Maryland
+
+Sylhet, Bangladesh
 
 Hanmer, Canada
 
@@ -105,3 +109,12 @@ Nakuru, Kenya
 Anand,India
 
 Patuakhali, Bangladesh
+
+Ajax, Canada
+
+Toronto, Canada
+
+Burlington, Canada
+
+Fontainebleau, France
+
