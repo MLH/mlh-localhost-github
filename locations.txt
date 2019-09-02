@@ -121,3 +121,5 @@ Fontainebleau, France
 Barisal, Bangladesh
 
 Bagerhat, Bangladesh
+
+Bolivar, Venezuela
