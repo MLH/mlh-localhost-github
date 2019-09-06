@@ -1,3 +1,11 @@
+Chihuahua, Mexico
+
+Syracuse, Utah
+
+Fairbanks, Alaska
+
+Hermosillo, Mexico
+
 Jalandhar, India
 
 Lincoln, Pennsylvania
@@ -15,7 +23,7 @@ Milwaukee, Wisconsin
 Elmhurst, Illinois
 
 New York, USA
-
+Azusa, CA
 Paris, France
 
 Montreal, Canada
@@ -89,7 +97,7 @@ Dhaka, Bangladesh
 Huntington, New York
 
 New York, NY
-
+Virgin, Utah
 Rockville, Maryland
 
 Sylhet, Bangladesh
@@ -123,3 +131,17 @@ Barisal, Bangladesh
 Bagerhat, Bangladesh
 
 Kingston, Canada
+
+Eagle, Idaho
+
+Salt Lake City, United States
+
+St. Louis, MO
+
+Pyongyang, North Korea
+
+Layton, UTah
+
+Millcreek, Utah
+
+Providence, UT
