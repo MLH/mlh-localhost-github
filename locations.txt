@@ -1,5 +1,9 @@
 Chihuahua, Mexico
 
+Syracuse, Utah
+
+Fairbanks, Alaska
+
 Hermosillo, Mexico
 
 Jalandhar, India
@@ -129,3 +133,7 @@ Bagerhat, Bangladesh
 Kingston, Canada
 
 Layton, UTah
+
+Millcreek, Utah
+
+Providence, UT
