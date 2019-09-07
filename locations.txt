@@ -38,7 +38,6 @@ Toronto, Canada
 
 Tokyo, Japan
 
-Dallas, Texas
 Copenhagen, Denmark
 
 Adelaide, Australia
@@ -124,3 +123,5 @@ Barisal, Bangladesh
 Bagerhat, Bangladesh
 
 Kingston, Canada
+
+Dallas, Texas
