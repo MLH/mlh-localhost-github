@@ -69,6 +69,7 @@ Santiago, Dominican Republic
 Seattle, Washington
 
 Gopaltila, Sylhet, Bangladesh
+Bhatar,India
 
 Manila, Philippines
 
@@ -87,6 +88,8 @@ Parsippany, New Jersey
 Haworth, New Jersey
 
 Dhaka, Bangladesh
+
+Surat, India
 
 Huntington, New York
 
@@ -120,12 +123,13 @@ Burlington, Canada
 
 Fontainebleau, France
 
+Tarsadi, India
+
 Barisal, Bangladesh
 
 Bagerhat, Bangladesh
 
 Kingston, Canada
-
 
 Trichy,India
 
@@ -135,10 +139,21 @@ Mysore, India
 
 San Antonio, Texas
 
+Valsad,India
+
 Bardoli, India
 
 Ciudad de Guatemala, Guatemala
-
+Bharuch,India
+Ankleshwar,India
 Seoul, SouthKorea
 
 Navsari, India
+
+Goa, India
+
+Ena, India
+
+Bhavnagar, India
+
+Ena, India
