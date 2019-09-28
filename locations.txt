@@ -1,4 +1,5 @@
 Jalandhar, India
+Mumbai,India
 
 Lincoln, Pennsylvania
 
@@ -67,6 +68,7 @@ Santiago, Dominican Republic
 Seattle, Washington
 
 Gopaltila, Sylhet, Bangladesh
+Bhatar,India
 
 Manila, Philippines
 
@@ -85,7 +87,7 @@ Parsippany, New Jersey
 Haworth, New Jersey
 
 Dhaka, Bangladesh
-
+Surst, India
 Huntington, New York
 
 New York, NY
@@ -124,9 +126,6 @@ Barisal, Bangladesh
 
 Bagerhat, Bangladesh
 
-Kingston, Canada
-
-
 Trichy,India
 
 Reading, Pennsylvania
@@ -134,11 +133,12 @@ Reading, Pennsylvania
 Mysore, India
 
 San Antonio, Texas
-
+Valsad,India
 Bardoli, India
 
 Ciudad de Guatemala, Guatemala
 Bharuch,India
 Ankleshwar,India
 Seoul, SouthKorea
+Ena, India
 
