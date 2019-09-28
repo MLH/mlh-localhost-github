@@ -142,7 +142,8 @@ Valsad,India
 Bardoli, India
 
 Ciudad de Guatemala, Guatemala
-
+Bharuch,India
+Ankleshwar,India
 Seoul, SouthKorea
 
 Goa, India
@@ -150,3 +151,5 @@ Goa, India
 Ena, India
 
 Bhavnagar, India
+
+Ena, India
