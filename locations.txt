@@ -67,6 +67,7 @@ Santiago, Dominican Republic
 Seattle, Washington
 
 Gopaltila, Sylhet, Bangladesh
+Bhatar,India
 
 Manila, Philippines
 
@@ -123,7 +124,6 @@ Barisal, Bangladesh
 Bagerhat, Bangladesh
 
 Kingston, Canada
-
 
 Trichy,India
 
