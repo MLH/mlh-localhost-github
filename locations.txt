@@ -1,5 +1,4 @@
 Jalandhar, India
-Mumbai,India
 
 Lincoln, Pennsylvania
 
@@ -86,7 +85,9 @@ Parsippany, New Jersey
 Haworth, New Jersey
 
 Dhaka, Bangladesh
-Surst, India
+
+Surat, India
+
 Huntington, New York
 
 New York, NY
@@ -126,7 +127,6 @@ Barisal, Bangladesh
 Bagerhat, Bangladesh
 
 Kingston, Canada
-Gopipura, India
 
 Trichy,India
 
@@ -143,3 +143,5 @@ Ciudad de Guatemala, Guatemala
 Seoul, SouthKorea
 
 Goa, India
+
+Bhavnagar, India
