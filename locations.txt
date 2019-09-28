@@ -1,8 +1,11 @@
+Mumbai,India
 Jalandhar, India
 
 Lincoln, Pennsylvania
 
 Phoenix, Arizona
+
+Navsari, India
 
 Lake Hiawatha, New Jersey
 
@@ -36,7 +39,7 @@ Vancouver, Canada
 
 Toronto, Canada
 
-Tokyo, Japan
+Tokyo, Ja
 
 Copenhagen, Denmark
 
@@ -47,7 +50,7 @@ Miami, Florida
 Tulsa, Oklahoma
 
 Queens, Ny
-
+Kamrej, India
 Bavaria, Germany
 
 Jamaica, New York
@@ -67,6 +70,7 @@ Santiago, Dominican Republic
 Seattle, Washington
 
 Gopaltila, Sylhet, Bangladesh
+Bhatar,India
 
 Manila, Philippines
 
@@ -85,6 +89,8 @@ Parsippany, New Jersey
 Haworth, New Jersey
 
 Dhaka, Bangladesh
+
+Surat, India
 
 Huntington, New York
 
@@ -118,12 +124,13 @@ Burlington, Canada
 
 Fontainebleau, France
 
+Tarsadi, India
+
 Barisal, Bangladesh
 
 Bagerhat, Bangladesh
 
 Kingston, Canada
-
 
 Trichy,India
 
@@ -133,7 +140,34 @@ Mysore, India
 
 San Antonio, Texas
 
+Valsad,India
+
+Bardoli, India
 
 Ciudad de Guatemala, Guatemala
-
+Bharuch,India
+Ankleshwar,India
 Seoul, SouthKorea
+
+Goa, India
+Valsad, India
+Thane, India
+Vapi, India
+
+Navsari, India
+
+Goa, India
+
+Ena, India
+
+Bhavnagar, India
+
+Rajkot, India
+
+Amreli, India
+
+Ena, India
+
+
+Bhubaneshwar, India
+
