@@ -38,7 +38,7 @@ Vancouver, Canada
 
 Toronto, Canada
 
-Tokyo, Japan
+Tokyo, Ja
 
 Copenhagen, Denmark
 
@@ -147,6 +147,11 @@ Ciudad de Guatemala, Guatemala
 Bharuch,India
 Ankleshwar,India
 Seoul, SouthKorea
+
+Goa, India
+Valsad, India
+Thane, India
+Vapi, India
 
 Navsari, India
 
