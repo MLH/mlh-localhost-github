@@ -36,7 +36,7 @@ Vancouver, Canada
 
 Toronto, Canada
 
-Tokyo, Japan
+Tokyo, Ja
 
 Copenhagen, Denmark
 
@@ -144,3 +144,4 @@ Ankleshwar.India
 Goa, India
 valsad.India
 Thane.India
+vapi.India
