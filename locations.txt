@@ -85,7 +85,7 @@ Parsippany, New Jersey
 Haworth, New Jersey
 
 Dhaka, Bangladesh
-
+Surst, India
 Huntington, New York
 
 New York, NY
@@ -118,12 +118,14 @@ Burlington, Canada
 
 Fontainebleau, France
 
+Tarsadi, India
+
 Barisal, Bangladesh
 
 Bagerhat, Bangladesh
 
 Kingston, Canada
-
+Gopipura, India
 
 Trichy,India
 
@@ -139,3 +141,4 @@ Ciudad de Guatemala, Guatemala
 
 Seoul, SouthKorea
 Ankleshwar.India
+Goa, India
