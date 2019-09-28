@@ -67,6 +67,7 @@ Santiago, Dominican Republic
 Seattle, Washington
 
 Gopaltila, Sylhet, Bangladesh
+Bhatar,India
 
 Manila, Philippines
 
@@ -136,6 +137,8 @@ Mysore, India
 
 San Antonio, Texas
 
+Valsad,India
+
 Bardoli, India
 
 Ciudad de Guatemala, Guatemala
@@ -143,5 +146,7 @@ Ciudad de Guatemala, Guatemala
 Seoul, SouthKorea
 
 Goa, India
+
+Ena, India
 
 Bhavnagar, India
