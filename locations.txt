@@ -48,7 +48,7 @@ Tulsa, Oklahoma
 
 Queens, Ny
 
-Bavaria, Germany
+Bavaria, Germantown
 
 Jamaica, New York
 
@@ -134,3 +134,5 @@ Mysore, India
 San Antonio, Texas
 
 Bolivar, Venezuela
+
+abeokuta,Nigeria
