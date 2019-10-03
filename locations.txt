@@ -4,6 +4,8 @@ Lincoln, Pennsylvania
 
 Phoenix, Arizona
 
+Mississauga, Canada
+
 Lake Hiawatha, New Jersey
 
 Denver, Colorado
@@ -139,3 +141,5 @@ Ciudad de Guatemala, Guatemala
 Seoul, SouthKorea
 
 Ho Chi Minh City, Vietnam
+
+St. Catharines, Canada
