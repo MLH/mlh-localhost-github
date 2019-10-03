@@ -137,3 +137,5 @@ San Antonio, Texas
 Ciudad de Guatemala, Guatemala
 
 Seoul, SouthKorea
+
+Ho Chi Minh City, Vietnam
