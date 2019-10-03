@@ -140,4 +140,6 @@ Ciudad de Guatemala, Guatemala
 
 Seoul, SouthKorea
 
+Ho Chi Minh City, Vietnam
+
 St. Catharines, Canada
