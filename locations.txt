@@ -1,3 +1,4 @@
+Almaty Kz
 Jalandhar, India
 Gatineau, Canada
 Lincoln, Pennsylvania
@@ -143,3 +144,5 @@ Seoul, SouthKorea
 Ho Chi Minh City, Vietnam
 
 St. Catharines, Canada
+
+Almaty, Kazakhstan
