@@ -126,6 +126,7 @@ Bagerhat, Bangladesh
 
 Kingston, Canada
 
+Colchester, CT
 
 Trichy,India
 
@@ -134,6 +135,8 @@ Reading, Pennsylvania
 Mysore, India
 
 San Antonio, Texas
+
+Chattanooga, Tennessee
 
 
 Ciudad de Guatemala, Guatemala
