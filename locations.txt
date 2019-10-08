@@ -76,6 +76,8 @@ Cali, Colombia
 
 Brooklyn, New York
 
+Greenlawn, New York
+
 Long Island City, New York
 
 Kowloon, Hong Kong
@@ -134,6 +136,8 @@ Reading, Pennsylvania
 Mysore, India
 
 San Antonio, Texas
+
+Chattanooga, Tennessee
 
 
 Ciudad de Guatemala, Guatemala
