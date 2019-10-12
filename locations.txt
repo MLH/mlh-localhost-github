@@ -73,6 +73,7 @@ Ciudad de Guatemala, Guatemala
 Daegu, South Korea
 Ho Chi Minh City, Vietnam
 St. Catharines, Canada
+Macclesfield, United Kingdom
 Manchester, United Kingdom
 Dukinfield, United Kingdom
 Brescia, Italy
@@ -82,3 +83,4 @@ Athens, Greece
 Manchester, United Kingdom
 Pune, India
 Alessandria,Italy
+
