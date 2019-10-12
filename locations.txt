@@ -1,3 +1,7 @@
+Baroda,India
+
+Bharuch,India
+
 Mumbai, India
 
 Goa, India
@@ -89,6 +93,8 @@ Long Island City, New York
 Kowloon, Hong Kong
 
 Irvington, New Jersey
+
+Vadodara,Gujarat
 
 Parsippany, New Jersey
 
