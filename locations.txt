@@ -143,6 +143,7 @@ Mysore, India
 
 San Antonio, Texas
 
+Katsina, Nigeria
 
 Ciudad de Guatemala, Guatemala
 
@@ -153,3 +154,4 @@ Ho Chi Minh City, Vietnam
 St. Catharines, Canada
 
 Dzerzhinsk, Russia
+
