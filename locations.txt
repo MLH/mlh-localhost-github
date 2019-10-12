@@ -143,3 +143,7 @@ Seoul, SouthKorea
 Ho Chi Minh City, Vietnam
 
 St. Catharines, Canada
+
+Bangalore, India
+
+Manchester, England
