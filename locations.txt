@@ -1,7 +1,15 @@
-Jalandhar, India
-Gatineau, Canada
-Lincoln, Pennsylvania
+Mumbai, India
 
+Goa, India
+
+Tehran, Iran
+
+Jalandhar, India
+
+Gatineau, Canada
+
+Lincoln, Pennsylvania
+Changchun, China
 Phoenix, Arizona
 
 Mississauga, Canada
@@ -138,10 +146,14 @@ San Antonio, Texas
 
 Ciudad de Guatemala, Guatemala
 
-Seoul, SouthKorea
+Daegu, South Korea
 
 Ho Chi Minh City, Vietnam
 
 St. Catharines, Canada
 
+
 Montgomery, Alabama
+
+Dzerzhinsk, Russia
+
