@@ -1,3 +1,4 @@
+
 Mumbai, India
 
 Goa, India
@@ -153,3 +154,5 @@ Ho Chi Minh City, Vietnam
 St. Catharines, Canada
 
 Dzerzhinsk, Russia
+
+Karachi, Pakistan
