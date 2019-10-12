@@ -38,6 +38,7 @@ Seattle, Washington
 Gopaltila, Sylhet, Bangladesh
 Manila, Philippines
 Cali, Colombia
+Munich, Germany
 Brooklyn, New York
 Long Island City, New York
 Kowloon, Hong Kong
@@ -73,3 +74,11 @@ Daegu, South Korea
 Ho Chi Minh City, Vietnam
 St. Catharines, Canada
 Manchester, United Kingdom
+Dukinfield, United Kingdom
+Brescia, Italy
+Siauliai, Lithuania
+Manchester, United Kingdom
+Athens, Greece
+Manchester, United Kingdom
+Pune, India
+Alessandria,Italy
