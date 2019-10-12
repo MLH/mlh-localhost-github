@@ -1,3 +1,5 @@
+San Jose, California
+
 Mumbai, India
 
 Goa, India
@@ -158,4 +160,7 @@ San Diego, California
 
 Riverside, California
 
+
 Villa Las Estrellas, Antarctica
+
+Los Angeles, California
