@@ -44,6 +44,7 @@ Sydney, Australia
 
 Vancouver, Canada
 
+
 Toronto, Canada
 
 Tokyo, Japan
@@ -152,4 +153,9 @@ Ho Chi Minh City, Vietnam
 
 St. Catharines, Canada
 
+
+
+Pratville, Alabama
+
 Dzerzhinsk, Russia
+
