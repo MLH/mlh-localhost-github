@@ -150,6 +150,8 @@ Daegu, South Korea
 
 Ho Chi Minh City, Vietnam
 
+ooty,karnatak
+
 St. Catharines, Canada
 
 Dzerzhinsk, Russia
