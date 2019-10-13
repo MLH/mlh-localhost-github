@@ -112,6 +112,10 @@ Ahmedabad,India
 
 simla,india
 
+siliguri
+
+mouritius
+
 Vadodara, India
 
 Nakuru, Kenya
