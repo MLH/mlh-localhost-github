@@ -124,6 +124,8 @@ Ajax, Canada
 
 Toronto, Canada
 
+Vadodara.India
+
 Burlington, Canada
 
 Fontainebleau, France
@@ -153,3 +155,5 @@ Ho Chi Minh City, Vietnam
 St. Catharines, Canada
 
 Dzerzhinsk, Russia
+
+Vadodara,Gujarat
