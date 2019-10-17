@@ -1,5 +1,5 @@
 Mumbai, India
-
+Anambra, Nigeria 
 Goa, India
 
 Tehran, Iran
@@ -12,20 +12,22 @@ Lincoln, Pennsylvania
 Changchun, China
 Phoenix, Arizona
 
+Bosso, Nigeria
+
 Mississauga, Canada
 
 Lake Hiawatha, New Jersey
 
 Denver, Colorado
-
+Abia, Nigeria 
 Moscow, Russia
-
+Kafachan, Nigeria 
 Milwaukee, Wisconsin
 
 Elmhurst, Illinois
-
+Tunga, Nigeria 
 New York, USA
-
+Kaduna, Nigeria 
 Paris, France
 
 Montreal, Canada
@@ -45,7 +47,7 @@ Sydney, Australia
 Vancouver, Canada
 
 Toronto, Canada
-
+Idemili, Nigeria 
 Tokyo, Japan
 
 Copenhagen, Denmark
@@ -111,7 +113,7 @@ Forks of Salmon, California
 Ahmedabad,India
 
 simla,india
-
+Umunze, Nigeria 
 Vadodara, India
 
 Nakuru, Kenya
