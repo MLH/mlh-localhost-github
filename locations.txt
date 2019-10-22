@@ -160,6 +160,10 @@ Dzerzhinsk, Russia
 
 Phoenix, Arizona
 
+Santiago,Chile
+
+Tampa, Florida
+
 Corona,California
 
 Los Angeles, California
