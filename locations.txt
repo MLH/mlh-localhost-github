@@ -18,6 +18,8 @@ Mississauga, Canada
 
 Lake Hiawatha, New Jersey
 
+San Jose, Califorina
+
 Denver, Colorado
 
 Moscow, Russia
@@ -58,7 +60,7 @@ Miami, Florida
 
 Tulsa, Oklahoma
 
-Queens, Ny
+Queens, NY
 
 Bavaria, Germany
 
@@ -110,15 +112,15 @@ Hanmer, Canada
 
 Forks of Salmon, California
 
-Ahmedabad,India
+Ahmedabad, India
 
-simla,india
+Simla, India
 
 Vadodara, India
 
 Nakuru, Kenya
 
-Anand,India
+Anand, India
 
 Patuakhali, Bangladesh
 
@@ -153,3 +155,25 @@ Ho Chi Minh City, Vietnam
 St. Catharines, Canada
 
 Dzerzhinsk, Russia
+
+Corona,California
+
+Los Angeles, California
+
+Palo Alto, California
+
+Pasadena, California
+
+Delhi, India
+
+Vasai, India
+
+Thrissur, India
+
+Vellore, India
+
+Fremont, California
+
+Weston, Florida
+
+Rosemead, California
