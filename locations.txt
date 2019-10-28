@@ -140,6 +140,9 @@ Mysore, India
 
 San Antonio, Texas
 
+Plano, Illinois
+
+
 Ciudad de Guatemala, Guatemala
 
 Daegu, South Korea
@@ -159,4 +162,3 @@ Elgin, Illinois
 Warrenville, IL 
 
 Grayslake, Illinois
-
