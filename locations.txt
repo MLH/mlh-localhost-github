@@ -22,8 +22,6 @@ Moscow, Russia
 
 Milwaukee, Wisconsin
 
-Elmhurst, Illinois
-
 New York, USA
 
 Paris, France
@@ -37,7 +35,7 @@ Vienna, Austria
 Melbourne, Australia
 
 Osaka, Japan
-
+ 
 Calgary, Canada
 
 Sydney, Australia
@@ -142,6 +140,8 @@ Mysore, India
 
 San Antonio, Texas
 
+Plano, Illinois
+
 Ciudad de Guatemala, Guatemala
 
 Daegu, South Korea
@@ -153,6 +153,18 @@ St. Catharines, Canada
 Dzerzhinsk, Russia
 
 Streamwood, Untied States of America
+
+Quincy, Illzinois
+
+Oswego, Illinois
+
+Maple Park, Illinois
+
+Maple Park, Illinois
+
+Elgin, Illinois
+
+Warrenville, IL 
 
 Grayslake, Illinois
 
