@@ -22,8 +22,6 @@ Moscow, Russia
 
 Milwaukee, Wisconsin
 
-Elmhurst, Illinois
-
 New York, USA
 
 Paris, France
@@ -37,7 +35,7 @@ Vienna, Austria
 Melbourne, Australia
 
 Osaka, Japan
-
+ 
 Calgary, Canada
 
 Sydney, Australia
@@ -134,7 +132,6 @@ Bagerhat, Bangladesh
 
 Kingston, Canada
 
-
 Trichy,India
 
 Reading, Pennsylvania
@@ -142,7 +139,6 @@ Reading, Pennsylvania
 Mysore, India
 
 San Antonio, Texas
-
 
 Ciudad de Guatemala, Guatemala
 
@@ -154,4 +150,8 @@ St. Catharines, Canada
 
 Dzerzhinsk, Russia
 
+
+Warrenville, IL 
+
 Grayslake, Illinois
+
