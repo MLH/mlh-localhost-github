@@ -1,3 +1,9 @@
+Adana, Turkey
+
+Istanbul, Turkey
+
+Denizli, Turkey
+
 Illinois, United States of America
 
 Goa, India
@@ -9,7 +15,9 @@ Jalandhar, India
 Gatineau, Canada
 
 Lincoln, Pennsylvania
+
 Changchun, China
+
 Phoenix, Arizona
 
 Mississauga, Canada
