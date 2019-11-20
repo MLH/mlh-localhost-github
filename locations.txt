@@ -1,6 +1,11 @@
 Illinois, United States of America
+Adana, Turkey
+Istanbul, Turkey
+Denizli, Turkey
 Goa, India
 Tehran, Iran
+Gatineau, Canada
+Jalandhar, India
 Jalandhar, India
 Gatineau, Canada
 Lincoln, Pennsylvania
@@ -83,3 +88,9 @@ Maple Park, Illinois
 Elgin, Illinois
 Warrenville, IL
 Grayslake, Illinois
+Rio de Janeiro, Brazil
+Fort Lauderdale, Fl
+Brooklyn, NY
+Cedar Rapids, Iowa
+San Diego, California 
+San Diego, California
