@@ -1,15 +1,23 @@
 Illinois, United States of America
 
+Adana, Turkey
+
+Istanbul, Turkey
+
+Denizli, Turkey
+
 Goa, India
 
 Tehran, Iran
 
-Jalandhar, India
-
 Gatineau, Canada
 
+Jalandhar, India
+
 Lincoln, Pennsylvania
+
 Changchun, China
+
 Phoenix, Arizona
 
 Mississauga, Canada
@@ -171,3 +179,6 @@ Grayslake, Illinois
 Rio de Janeiro, Brazil
 
 Cedar Rapids, Iowa
+
+San Diego, California 
+
