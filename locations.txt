@@ -1,15 +1,23 @@
 Illinois, United States of America
 
+Adana, Turkey
+
+Istanbul, Turkey
+
+Denizli, Turkey
+
 Goa, India
 
 Tehran, Iran
 
-Jalandhar, India
-
 Gatineau, Canada
 
+Jalandhar, India
+
 Lincoln, Pennsylvania
+
 Changchun, China
+
 Phoenix, Arizona
 
 Mississauga, Canada
@@ -169,4 +177,9 @@ Warrenville, IL
 Grayslake, Illinois
 
 Rio de Janeiro, Brazil
+
 Brooklyn, NY
+
+Cedar Rapids, Iowa
+
+San Diego, California 
