@@ -178,7 +178,7 @@ Grayslake, Illinois
 
 Rio de Janeiro, Brazil
 
-Fort lauderdale, Fl
+Fort Lauderdale, Fl
 
 Brooklyn, NY
 
@@ -186,3 +186,4 @@ Cedar Rapids, Iowa
 
 San Diego, California 
 
+San Diego, California
