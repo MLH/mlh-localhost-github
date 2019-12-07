@@ -46,7 +46,7 @@ Kowloon, Hong Kong
 Irvington, New Jersey
 Parsippany, New Jersey
 Haworth, New Jersey
-Dhaka, Bangladesh
+Dhaka, Bangladeshban
 Huntington, New York
 New York, NY
 Rockville, Maryland
@@ -86,3 +86,4 @@ Grayslake, Illinois
 Markham, Canada
 Beijing, China
 Kadapa, India
+bangalore,India
