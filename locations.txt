@@ -27,6 +27,7 @@ Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
 Tulsa, Oklahoma
+CDMX,México
 Queens, Ny
 Bavaria, Germany
 Jamaica, New York
