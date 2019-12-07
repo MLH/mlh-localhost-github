@@ -44,6 +44,7 @@ Brooklyn, New York
 Long Island City, New York
 Kowloon, Hong Kong
 Irvington, New Jersey
+La Paz, Bolivia
 Parsippany, New Jersey
 Haworth, New Jersey
 Dhaka, Bangladesh
@@ -89,3 +90,9 @@ Beijing, China
 Kadapa, India
 Lagos, Nigeria
 Kitale , Kenya
+Prosotsani, Greece
+Tarija, Bolivia
+Viacha, Bolivia
+Pando, Bolivia
+Mushin, Lagos
+Chester Springs, PA
