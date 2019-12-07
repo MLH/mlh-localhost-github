@@ -91,3 +91,6 @@ Lagos, Nigeria
 Tarija, Bolivia
 Viacha, Bolivia
 Pando, Bolivia
+Ajah, Lagos
+lekki, Lagos
+Abuja, Nigeria
