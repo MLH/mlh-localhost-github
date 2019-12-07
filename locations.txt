@@ -61,6 +61,7 @@ Nakuru, Kenya
 Anand,India
 Patuakhali, Bangladesh
 Ajax, Canada
+Eldoret , Kenya
 Toronto, Canada
 Burlington, Canada
 Fontainebleau, France
@@ -88,6 +89,7 @@ Markham, Canada
 Beijing, China
 Kadapa, India
 Lagos, Nigeria
+Kitale , Kenya
 Prosotsani, Greece
 Tarija, Bolivia
 Viacha, Bolivia
