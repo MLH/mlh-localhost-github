@@ -114,4 +114,5 @@ Nashik, India
 bhusawal,india
 Nashik,Maharashtra
 Jalgone,India
-London, Ontario, Canada  
+London, Ontario, Canada
+Lethbridge, Alberta, Canada
