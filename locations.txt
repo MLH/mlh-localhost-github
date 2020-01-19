@@ -116,3 +116,5 @@ Nashik,Maharashtra
 Jalgone,India
 London, Ontario, Canada  
 Edison, NJ
+Pleasanton, California
+GeoJaedo, South Korea
