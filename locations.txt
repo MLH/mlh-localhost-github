@@ -116,4 +116,5 @@ Nashik,Maharashtra
 Jalgone,India
 London, Ontario, Canada  
 Pleasanton, California
-Placentia, California
+GeoJaedo, South Korea
+
