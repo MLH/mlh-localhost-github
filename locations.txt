@@ -118,3 +118,6 @@ London, Ontario, Canada
 Cambridge, MA
 Pleasanton, California
 GeoJaedo, South Korea
+Brampton, Ontario, Canada
+Indore, MP, India
+Caledon, Ontario, Canada
