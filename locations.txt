@@ -118,3 +118,4 @@ London, Ontario, Canada
 Cambridge, MA
 Pleasanton, California
 GeoJaedo, South Korea
+Flint, MI, USA
