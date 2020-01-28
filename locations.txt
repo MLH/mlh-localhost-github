@@ -2,6 +2,7 @@ Illinois, United States of America
 Goa, India
 Tehran, Iran
 Jalandhar, India
+Burnaby, Canada
 Gatineau, Canada
 Lincoln, Pennsylvania
 Changchun, China
@@ -119,3 +120,10 @@ Cambridge, MA
 Pleasanton, California
 GeoJaedo, South Korea
 Bronx, New York, USA
+Brampton, Ontario, Canada
+Indore, MP, India
+Omdurman, Sudan 
+Nanchang, China
+Jaffna, Sri Lanka
+San Francisco, California
+State College, Pennsylvania, United States
