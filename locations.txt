@@ -1,171 +1,137 @@
 Illinois, United States of America
-
 Goa, India
-
 Tehran, Iran
-
 Jalandhar, India
-
+Burnaby, Canada
 Gatineau, Canada
-
 Lincoln, Pennsylvania
 Changchun, China
+San Ramon, California
 Phoenix, Arizona
-
 Mississauga, Canada
-
 Lake Hiawatha, New Jersey
-
 Denver, Colorado
-
+Butler, Pennsylvania
 Moscow, Russia
-
 Milwaukee, Wisconsin
-
+Elmhurst, Illinois
+Smithtown, New York
+Moscow, Russia
+Milwaukee, Wisconsin
 New York, USA
-
 Paris, France
-
 Montreal, Canada
-
 Goiania, Brazil
-
 Vienna, Austria
-
 Melbourne, Australia
-
 Osaka, Japan
- 
 Calgary, Canada
-
 Sydney, Australia
-
 Vancouver, Canada
-
 Toronto, Canada
-
 Tokyo, Japan
-
 Copenhagen, Denmark
-
 Adelaide, Australia
-
 Miami, Florida
-
 Tulsa, Oklahoma
-
 Queens, Ny
-
 Bavaria, Germany
-
 Jamaica, New York
-
 Ambato, Ecuador
-
 Binghamton, New York
-
 South Ozone Park, New York
-
 Queens, New York, USA
-
 New York, New York
-
 Santiago, Dominican Republic
-
 Seattle, Washington
-
 Gopaltila, Sylhet, Bangladesh
-
 Manila, Philippines
-
 Cali, Colombia
-
 Brooklyn, New York
-
 Long Island City, New York
-
+Paris, France
 Kowloon, Hong Kong
-
 Irvington, New Jersey
-
+La Paz, Bolivia
 Parsippany, New Jersey
-
 Haworth, New Jersey
-
 Dhaka, Bangladesh
-
 Huntington, New York
-
+Houston, Texas
 New York, NY
-
 Rockville, Maryland
-
 Sylhet, Bangladesh
-
 Hanmer, Canada
-
 Forks of Salmon, California
-
 Ahmedabad,India
-
-simla,india
-
+Simla,india
 Vadodara, India
-
 Nakuru, Kenya
-
 Anand,India
-
 Patuakhali, Bangladesh
-
 Ajax, Canada
-
+Eldoret , Kenya
 Toronto, Canada
-
 Burlington, Canada
-
 Fontainebleau, France
-
 Barisal, Bangladesh
-
 Bagerhat, Bangladesh
-
 Kingston, Canada
-
 Trichy,India
-
 Reading, Pennsylvania
-
 Mysore, India
-
 San Antonio, Texas
-
 Plano, Illinois
-
 Ciudad de Guatemala, Guatemala
-
 Daegu, South Korea
-
 Ho Chi Minh City, Vietnam
-
 St. Catharines, Canada
-
 Dzerzhinsk, Russia
-
-Lahore, Pakistan
-
 Streamwood, Untied States of America
-
-Quincy, Illzinois
-
+Quincy, Illinois
 Oswego, Illinois
-
 Maple Park, Illinois
-
-Maple Park, Illinois
-
 Elgin, Illinois
-
-Warrenville, IL 
-
+Warrenville, IL
 Grayslake, Illinois
+Markham, Canada
+Beijing, China
+Tver, Russia
+Kadapa, India
+Lagos, Nigeria
+Limassol, Cyprus 
+Kolkata, India
+Kitale , Kenya
+Prosotsani, Greece
+Tarija, Bolivia
+Viacha, Bolivia
+Pando, Bolivia
+Ajah, Lagos
+Iviukhua, Edo
+Mushin, Lagos
+Ajah, Lagos
+Mushin, Lagos
+Chester Springs, PA
+CDMX, México
+Nashik, India
+bhusawal,india
+Nashik,Maharashtra
+Jalgone,India
+London, Ontario, Canada  
+Cambridge, MA
+Pleasanton, California
+GeoJaedo, South Korea
+Bronx, New York, USA
+Brampton, Ontario, Canada
+Indore, MP, India
+Omdurman, Sudan 
+Nanchang, China
+Montpelier, Vermont
+Jaffna, Sri Lanka
+San Francisco, California
+State College, Pennsylvania, United States
+Riverside, CA
+Greenville, Mississippi
+Oviedo, FL
+Vik, Iceland
+Lahore, Pakistan
