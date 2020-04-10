@@ -1,3 +1,4 @@
+Phagwara, India
 Illinois, United States of America
 Goa, India
 Tehran, Iran
@@ -49,6 +50,7 @@ Manila, Philippines
 Cali, Colombia
 Brooklyn, New York
 Long Island City, New York
+Paris, France
 Kowloon, Hong Kong
 Irvington, New Jersey
 La Paz, Bolivia
@@ -56,6 +58,7 @@ Parsippany, New Jersey
 Haworth, New Jersey
 Dhaka, Bangladesh
 Huntington, New York
+Houston, Texas
 New York, NY
 Rockville, Maryland
 Sylhet, Bangladesh
@@ -131,4 +134,9 @@ State College, Pennsylvania, United States
 Riverside, CA
 Greenville, Mississippi
 Oviedo, FL
-Patiala,india
+Vik, Iceland
+Sirsa, India
+Shahabad Markanda, India
+Punjab, India
+Bulandshahr, India
+Patiala, India
