@@ -149,7 +149,8 @@ Visakhapatnam, India
 Victor Onyenma, Nigeria
 Jamshepur,India
 Burdwan,India
-Sargodha, Pakistan
+Sargodha,Pakistan
+Vadodara, India
 Hooghly,India
 Singapore, Singapore
 Ipoh,Malaysia
