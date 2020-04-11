@@ -156,4 +156,5 @@ Singapore,Singapore
 Ipoh,Malaysia
 Sakarya,Turkey
 Kathmandu,Nepal
+Minna, Nigeria
 Oyo, Nigeria
