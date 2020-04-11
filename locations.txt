@@ -151,7 +151,8 @@ Jamshepur,India
 Burdwan,India
 Vadodara, India
 Hooghly,India
-Singapore, Singapore
+Singapore,Singapore
 Ipoh,Malaysia
-Sakarya, Turkey
-Kathmandu, Nepal
+Sakarya,Turkey
+Kathmandu,Nepal
+Nashik,India
