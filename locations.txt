@@ -1,3 +1,4 @@
+Phagwara, India
 Illinois, United States of America
 Goa, India
 Tehran, Iran
@@ -5,6 +6,7 @@ Jalandhar, India
 Burnaby, Canada
 Gatineau, Canada
 Lincoln, Pennsylvania
+Kanpur, India
 Changchun, China
 San Ramon, California
 Phoenix, Arizona
@@ -30,6 +32,7 @@ Sydney, Australia
 Vancouver, Canada
 Toronto, Canada
 Tokyo, Japan
+Kushiro, Japan
 Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
@@ -57,6 +60,7 @@ Parsippany, New Jersey
 Haworth, New Jersey
 Dhaka, Bangladesh
 Huntington, New York
+Houston, Texas
 New York, NY
 Rockville, Maryland
 Sylhet, Bangladesh
@@ -67,6 +71,7 @@ Simla,india
 Vadodara, India
 Nakuru, Kenya
 Anand,India
+Hyderabad,India
 Patuakhali, Bangladesh
 Ajax, Canada
 Eldoret , Kenya
@@ -134,3 +139,24 @@ Greenville, Mississippi
 Oviedo, FL
 Vik, Iceland
 Karachi, Pakistan
+Sirsa, India
+Shahabad Markanda, India
+Punjab, India
+Bulandshahr, India
+Jalpaiguri, India
+Patiala, India
+Udaipur, Rajasthan
+Lucknow, India
+Visakhapatnam, India
+Victor Onyenma, Nigeria
+Jamshepur,India
+Burdwan,India
+Vadodara, India
+Hooghly,India
+Singapore,Singapore
+Ipoh,Malaysia
+Sakarya,Turkey
+Kathmandu,Nepal
+Minna, Niger State Nigeria
+Oyo, Nigeria
+Kampala,Uganda
