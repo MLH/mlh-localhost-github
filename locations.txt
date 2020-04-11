@@ -149,4 +149,10 @@ Visakhapatnam, India
 Victor Onyenma, Nigeria
 Jamshepur,India
 Burdwan,India
-Nashik India
+Vadodara, India
+Hooghly,India
+Singapore,Singapore
+Ipoh,Malaysia
+Sakarya,Turkey
+Kathmandu,Nepal
+Nashik,India
