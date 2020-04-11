@@ -157,3 +157,4 @@ Ipoh,Malaysia
 Sakarya,Turkey
 Kathmandu,Nepal
 Oyo, Nigeria
+Kampala,Uganda
