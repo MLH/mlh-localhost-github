@@ -154,3 +154,4 @@ Hooghly,India
 Singapore, Singapore
 Ipoh,Malaysia
 Sakarya, Turkey
+Kathmandu, Nepal
