@@ -1,3 +1,5 @@
+CMDX, México
+Phagwara, India
 Illinois, United States of America
 Goa, India
 Tehran, Iran
@@ -5,6 +7,7 @@ Jalandhar, India
 Burnaby, Canada
 Gatineau, Canada
 Lincoln, Pennsylvania
+Kanpur, India
 Changchun, China
 San Ramon, California
 Phoenix, Arizona
@@ -30,6 +33,7 @@ Sydney, Australia
 Vancouver, Canada
 Toronto, Canada
 Tokyo, Japan
+Kushiro, Japan
 Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
@@ -68,6 +72,7 @@ Simla,india
 Vadodara, India
 Nakuru, Kenya
 Anand,India
+Hyderabad,India
 Patuakhali, Bangladesh
 Ajax, Canada
 Eldoret , Kenya
@@ -135,3 +140,32 @@ Greenville, Mississippi
 Oviedo, FL
 Vik, Iceland
 Sargodha,Pakistan
+Karachi, Pakistan
+Sirsa, India
+Shahabad Markanda, India
+Punjab, India
+Bulandshahr, India
+Jalpaiguri, India
+Patiala, India
+Udaipur, Rajasthan
+Lucknow, India
+Visakhapatnam, India
+Victor Onyenma, Nigeria
+Jamshepur,India
+Burdwan,India
+Vadodara, India
+Hooghly,India
+Singapore,Singapore
+Ipoh,Malaysia
+Sakarya,Turkey
+Kathmandu,Nepal
+Minna, Niger State Nigeria
+Oyo, Nigeria
+Kampala,Uganda
+Hoshiarpur, Punjab, India
+Norman, Oklahoma, United States
+Moore, OK
+Warszawa, Poland
+Lowell, Arkansas
+San Antonio, Texas, United States
+Kaduna, Nigeria
