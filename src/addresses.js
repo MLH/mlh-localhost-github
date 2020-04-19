@@ -7,7 +7,7 @@ const getAddresses = async function(filePath = DEFAULT_FILE_PATH) {
   return String(fileContent).split("\n");
 };
 
-const getExampleAddresses = function() {
+const getExampleAddresses = function() {;
   return [];
 };
 
