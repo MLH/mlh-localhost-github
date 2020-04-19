@@ -1,3 +1,4 @@
+CMDX, México
 Phagwara, India
 Illinois, United States of America
 Goa, India
@@ -66,15 +67,15 @@ Rockville, Maryland
 Sylhet, Bangladesh
 Hanmer, Canada
 Forks of Salmon, California
-Ahmedabad,India
-Simla,india
+Ahmedabad, India
+Simla, India
 Vadodara, India
 Nakuru, Kenya
-Anand,India
-Hyderabad,India
+Anand, India
+Hyderabad, India
 Patuakhali, Bangladesh
 Ajax, Canada
-Eldoret , Kenya
+Eldoret, Kenya
 Toronto, Canada
 Burlington, Canada
 Fontainebleau, France
@@ -103,7 +104,7 @@ Beijing, China
 Tver, Russia
 Kadapa, India
 Lagos, Nigeria
-Limassol, Cyprus 
+Limassol, Cyprus
 Kolkata, India
 Kitale , Kenya
 Prosotsani, Greece
@@ -121,14 +122,14 @@ Nashik, India
 bhusawal,india
 Nashik,Maharashtra
 Jalgone,India
-London, Ontario, Canada  
+London, Ontario, Canada
 Cambridge, MA
 Pleasanton, California
 GeoJaedo, South Korea
 Bronx, New York, USA
 Brampton, Ontario, Canada
 Indore, MP, India
-Omdurman, Sudan 
+Omdurman, Sudan
 Nanchang, China
 Montpelier, Vermont
 Jaffna, Sri Lanka
@@ -138,6 +139,7 @@ Riverside, CA
 Greenville, Mississippi
 Oviedo, FL
 Vik, Iceland
+Kumba, Cameroon
 Karachi, Pakistan
 Sirsa, India
 Shahabad Markanda, India
@@ -149,16 +151,24 @@ Udaipur, Rajasthan
 Lucknow, India
 Visakhapatnam, India
 Victor Onyenma, Nigeria
-Jamshepur,India
-Burdwan,India
+Jamshepur, India
+Burdwan, India
 Vadodara, India
-Hooghly,India
-Singapore,Singapore
-Ipoh,Malaysia
-Sakarya,Turkey
+Hooghly, India
+Singapore, Singapore
+Ipoh, Malaysia
+Sakarya, Turkey
 Kathmandu,Nepal
 Minna, Niger State Nigeria
 Oyo, Nigeria
-Kampala,Uganda
+Kampala, Uganda
 Hoshiarpur, Punjab, India
 ogudu,lagos,Nigeria
+Norman, Oklahoma, United States
+Moore, OK
+Warszawa, Poland
+Lowell, Arkansas
+San Antonio, Texas, United States
+Kaduna, Nigeria
+Buea, Cameroon
+
