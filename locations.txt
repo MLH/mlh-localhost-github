@@ -172,3 +172,4 @@ San Antonio, Texas, United States
 Kaduna, Nigeria
 Buea, Cameroon
 Cabo San Lucas, Baja California Sur
+bangalore,india
