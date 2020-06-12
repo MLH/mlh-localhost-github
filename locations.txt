@@ -47,6 +47,7 @@ South Ozone Park, New York
 Queens, New York, USA
 New York, New York
 Santiago, Dominican Republic
+Bhilwara,Rajasthan
 Seattle, Washington
 Gopaltila, Sylhet, Bangladesh
 Manila, Philippines
@@ -149,6 +150,7 @@ Bulandshahr, India
 Jalpaiguri, India
 Patiala, India
 Udaipur, Rajasthan
+Lucknow,Uttar Pradesh
 Lucknow, India
 Visakhapatnam, India
 Victor Onyenma, Nigeria
