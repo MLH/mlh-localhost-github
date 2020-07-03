@@ -1,3 +1,4 @@
+indore, India
 CMDX, México
 Phagwara, India
 Illinois, United States of America
@@ -177,4 +178,7 @@ Merrick, New York
 Poughkeepsie, New York, United States
 Hastings, United Kingdom
 Brampton, Ontario, Canada
-kathmandu ,nepal
+Kathmandu ,nepal
+Annapolis, Maryland, United States
+Molepolole, Botswana
+Colorado, USA
