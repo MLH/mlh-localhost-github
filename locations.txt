@@ -1,3 +1,4 @@
+indore, India
 CMDX, México
 Phagwara, India
 Illinois, United States of America
@@ -178,3 +179,4 @@ Poughkeepsie, New York, United States
 Hastings, United Kingdom
 Brampton, Ontario, Canada
 Molepolole, Botswana
+Colorado, USA
