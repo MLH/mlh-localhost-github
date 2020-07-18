@@ -1,4 +1,5 @@
 indore, India
+Kanpur,Uttar Pradesh
 CMDX, México
 Phagwara, India
 Illinois, United States of America
