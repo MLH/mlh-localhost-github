@@ -189,9 +189,11 @@ Kathmandu ,nepal
 Annapolis, Maryland, United States
 Molepolole, Botswana
 Colorado, USA
+Kolkata,India
 Jammu, India
 Bhopal, India
 Gurgaon,India
 Panchkula,India
 Delhi,India
 Pune, Maharashtra
+
