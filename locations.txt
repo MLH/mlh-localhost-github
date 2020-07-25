@@ -197,3 +197,5 @@ Delhi,India
 Pune, Maharashtra
 Toronto, Canada
 Troy, Michigan, United States
+Dhanbad, India
+Newcastle, UK
