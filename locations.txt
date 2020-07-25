@@ -195,3 +195,4 @@ Gurgaon,India
 Panchkula,India
 Delhi,India
 Pune, Maharashtra
+Toronto, Canada
