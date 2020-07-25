@@ -196,6 +196,7 @@ Panchkula,India
 Delhi,India
 Pune, Maharashtra
 Toronto, Canada
+Bhubaneswar,India
 Troy, Michigan, United States
 Dhanbad, India
 Newcastle, UK
