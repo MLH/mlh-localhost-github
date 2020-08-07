@@ -197,3 +197,4 @@ Panchkula,India
 Delhi,India
 Pune, Maharashtra
 Lagos, Nigeria
+Manila, Philippines
