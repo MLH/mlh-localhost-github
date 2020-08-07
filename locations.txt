@@ -198,5 +198,6 @@ Panchkula,India
 Delhi,India
 Pune, Maharashtra
 Lagos, Nigeria
+Algeirs, Algeria
 Manila, Philippines
 Rockville, Maryland, United States
