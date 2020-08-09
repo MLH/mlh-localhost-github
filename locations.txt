@@ -200,3 +200,5 @@ Pune, Maharashtra
 Lagos, Nigeria
 Manila, Philippines
 Rockville, Maryland, United States
+Udupi,karnataka
+Malpe,Karnataka
