@@ -98,6 +98,7 @@ Ciudad de Guatemala, Guatemala
 Daegu, South Korea
 Ho Chi Minh City, Vietnam
 St. Catharines, Canada
+Manish, India
 Bangalore, India
 Manchester, England
 Kashmir, India
@@ -206,4 +207,3 @@ Rockville, Maryland, United States
 Minna, Nigeria
 New Delhi, India
 Modesto, California, United States
-
