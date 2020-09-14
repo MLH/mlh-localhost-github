@@ -188,6 +188,7 @@ Hastings, United Kingdom
 Brampton, Ontario, Canada
 Virginia, USA
 Kathmandu ,nepal
+Katsina, Nigeria
 Annapolis, Maryland, United States
 Molepolole, Botswana
 Colorado, USA
@@ -205,3 +206,5 @@ New Delhi, India
 Modesto, California, United States
 Coastal-Bend, Texas , United States
 Hanoi, Vietnam
+Katsina, Nigeria
+
