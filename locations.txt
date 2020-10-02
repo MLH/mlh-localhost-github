@@ -209,7 +209,9 @@ Seattle, Washington, United States
 Brentwood, Tennessee, United States
 Lucknow, Uttar Pradesh, India
 Badagada, Odisha, India
+Jaisalmer, Rajasthan, India
 Bangalore,Karnataka,India
 Howrah, West Bengal, India
 Chattisgarh, India
 Ellicott City, Maryland, United States
+Clifton, New Jersey, United States
