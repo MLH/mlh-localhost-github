@@ -1,3 +1,4 @@
+Rajkot, India
 Saint Petersburg, Russia
 Durgapur, West Bengal, India
 Pune, Maharashtra
@@ -30,7 +31,7 @@ Moscow, Russia
 Milwaukee, Wisconsin
 New York, USA
 Paris, France
-Montreal, Canada
+Montreal, Canada 
 Goiania, Brazil
 Vienna, Austria
 Melbourne, Australia
