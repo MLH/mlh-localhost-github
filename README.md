@@ -1,4 +1,5 @@
 # MLH Localhost Hometown Map
+
 This repository contains the source code for a map of the hometowns of anyone who attends the MLH Localhost workshop, How to Collaborate on Code Projects with GitHub. Participants learn best practice GitHub workflows, add their hometown to `locations.txt`, and see the giant community they're part of!
 
 ## How to participate in this workshop
@@ -39,10 +40,9 @@ Embedded JavaScript templates
 
 ### Google Maps API Key
 
-To use the Google Maps JavaScript API, you will ned an API Key.  The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
+To use the Google Maps JavaScript API, you will ned an API Key. The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
 
 Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
-
 
 ## Adding a new location
 
@@ -62,25 +62,27 @@ There is also a `locations.txt.example` file that can be used to test the app. C
 
 To run this application locally, you'll need to:
 
-* Clone this repository:
+- Clone this repository:
+
 ```
 git clone https://github.com/MLH/mlh-localhost-github.git
 cd localhost-github
 npm install
 ```
 
-* Set up environment variables:
+- Set up environment variables:
 
 There is a `.env.example` file that can be used to configure the app. Simply create a copy named `.env`
 
 ```txt
 PORT= # Port to be used by the app
-API_KEY= # Google Maps API KEY
+GOOGLE_API_KEY= # Google Maps API KEY
 ```
 
 Now inside the root folder run:
+
 ```
 npm start
 ```
 
-Now you can access locally in your browser the address  `http://localhost:3000` and see your locations map.
+Now you can access locally in your browser the address `http://localhost:3000` and see your locations map.
