@@ -1,3 +1,4 @@
+Ambikapur, India
 Saint Petersburg, Russia
 Durgapur, West Bengal, India
 Pune, Maharashtra
@@ -44,6 +45,16 @@ Kushiro, Japan
 Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
+Barnstable, Massachusetts
+Hanover, Massachusetts
+Cape Elizabeth, Maine
+Guangdong, China
+Shanghai, China
+Boston, Massachusetts
+Cagayan de Oro, Philippines
+Burlington, Massachusetts
+Marikostinovo, Bulgaria
+Pune, India
 Tulsa, Oklahoma
 Queens, Ny
 Bavaria, Germany
@@ -234,3 +245,4 @@ Prayagraj, Uttarpradesh, India
 Haryana, India
 South Extension, New Delhi, India
 Istanbul, Turkey
+Gurugram, Haryana, India
