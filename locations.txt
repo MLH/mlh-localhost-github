@@ -245,3 +245,7 @@ Prayagraj, Uttarpradesh, India
 Haryana, India
 South Extension, New Delhi, India
 Gurugram, Haryana, India
+Kota,Rajasthan,India
+Jaipur,Rajasthan,India
+Dausa,Rajasthan,India
+Alwar,Rajasthan,India
