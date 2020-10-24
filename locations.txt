@@ -1,13 +1,14 @@
+Ambikapur, India
 Saint Petersburg, Russia
 Durgapur, West Bengal, India
 Pune, Maharashtra
-indore, India
+Indore, India
 Mumbai ,maharashtra
 Kanpur,Uttar Pradesh
 Panchkula, India
 CMDX, México
 Phagwara, India
-Illinois, United States of America
+Illinois, United States
 Goa, India
 Tehran, Iran
 Jalandhar, India
@@ -44,6 +45,16 @@ Kushiro, Japan
 Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
+Barnstable, Massachusetts
+Hanover, Massachusetts
+Cape Elizabeth, Maine
+Guangdong, China
+Shanghai, China
+Boston, Massachusetts
+Cagayan de Oro, Philippines
+Burlington, Massachusetts
+Marikostinovo, Bulgaria
+Pune, India
 Tulsa, Oklahoma
 Queens, Ny
 Bavaria, Germany
@@ -172,7 +183,7 @@ Oyo, Nigeria
 Kampala, Uganda
 Hoshiarpur, Punjab, India
 Norman, Oklahoma, United States
-Moore, OK
+Moore, Oklahoma
 San Francisco, California
 Warszawa, Poland
 Lowell, Arkansas
@@ -187,14 +198,14 @@ Poughkeepsie, New York, United States
 Hastings, United Kingdom
 Brampton, Ontario, Canada
 Virginia, USA
-Kathmandu ,nepal
+Kathmandu, Nepal
 Annapolis, Maryland, United States
 Molepolole, Botswana
-Colorado, USA
+Colorado, United States
 Jammu, India
 Bhopal, India
-Gurgaon,India
-Panchkula,India
+Gurgaon, India
+Panchkula, India
 Delhi,India
 Pune, Maharashtra
 Lagos, Nigeria
@@ -209,7 +220,7 @@ Seattle, Washington, United States
 Brentwood, Tennessee, United States
 Lucknow, Uttar Pradesh, India
 Jaisalmer, Rajasthan, India
-Bangalore,Karnataka,India
+Bangalore, Karnataka, India
 Howrah, West Bengal, India
 Chattisgarh, India
 Ellicott City, Maryland, United States
@@ -224,18 +235,15 @@ Moore, Oklahoma, United States
 Rogers, Arkansas, United States
 Moore, Oklahoma, United States
 Miami, Florida, United States
-Bangalore ,Karnataka ,India
+Bangalore, Karnataka, India
 Bhopal, Madhya Pradesh, India
 Gurugram, Haryana, India
-Ambikaput,Chatthisgarh,India
+Ambikaput, Chatthisgarh, India
 Muzaffarnagar, Uttar Pradesh, India
 Fatehpur Shekhawati, Rajasthan, India
-Prayagraj, Uttarpradesh, India.
+Prayagraj, Uttarpradesh, India
 Haryana, India
 South Extension, New Delhi, India
 Bilimora, Gujarat, India
-
-
-
-
-
+Gurugram, Haryana, India
+Muzaffarnagar,Uttar Pradesh,India
