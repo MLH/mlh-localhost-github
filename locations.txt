@@ -1,3 +1,4 @@
+Irvine, California
 Ambikapur, India
 Saint Petersburg, Russia
 Durgapur, West Bengal, India
@@ -235,6 +236,7 @@ Moore, Oklahoma, United States
 Rogers, Arkansas, United States
 Moore, Oklahoma, United States
 Miami, Florida, United States
+Germantown, Maryland, United States
 Bangalore, Karnataka, India
 Bhopal, Madhya Pradesh, India
 Gurugram, Haryana, India
@@ -247,3 +249,7 @@ South Extension, New Delhi, India
 Gurugram, Haryana, India
 Muzaffarnagar,Uttar Pradesh,India
 Long Beach, California, United States
+Kannad,Maharashtra,India
+Mangalore, Karnataka, India
+Monterrey, Nuevo Leon, Mexico 
+Seattle, Washington, United States
