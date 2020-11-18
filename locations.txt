@@ -1,7 +1,16 @@
 California, USA
+Irvine, California
+Ambikapur, India
+Saint Petersburg, Russia
+Durgapur, West Bengal, India
+Pune, Maharashtra
+Indore, India
+Mumbai ,maharashtra
+Kanpur,Uttar Pradesh
+Panchkula, India
 CMDX, México
 Phagwara, India
-Illinois, United States of America
+Illinois, United States
 Goa, India
 Tehran, Iran
 Jalandhar, India
@@ -38,6 +47,16 @@ Kushiro, Japan
 Copenhagen, Denmark
 Adelaide, Australia
 Miami, Florida
+Barnstable, Massachusetts
+Hanover, Massachusetts
+Cape Elizabeth, Maine
+Guangdong, China
+Shanghai, China
+Boston, Massachusetts
+Cagayan de Oro, Philippines
+Burlington, Massachusetts
+Marikostinovo, Bulgaria
+Pune, India
 Tulsa, Oklahoma
 Queens, Ny
 Bavaria, Germany
@@ -68,15 +87,15 @@ Rockville, Maryland
 Sylhet, Bangladesh
 Hanmer, Canada
 Forks of Salmon, California
-Ahmedabad,India
-Simla,india
+Ahmedabad, India
+Simla, India
 Vadodara, India
 Nakuru, Kenya
-Anand,India
-Hyderabad,India
+Anand, India
+Hyderabad, India
 Patuakhali, Bangladesh
 Ajax, Canada
-Eldoret , Kenya
+Eldoret, Kenya
 Toronto, Canada
 Burlington, Canada
 Fontainebleau, France
@@ -105,7 +124,7 @@ Beijing, China
 Tver, Russia
 Kadapa, India
 Lagos, Nigeria
-Limassol, Cyprus 
+Limassol, Cyprus
 Kolkata, India
 Kitale , Kenya
 Prosotsani, Greece
@@ -123,14 +142,15 @@ Nashik, India
 bhusawal,india
 Nashik,Maharashtra
 Jalgone,India
-London, Ontario, Canada  
+London, Ontario, Canada
 Cambridge, MA
 Pleasanton, California
 GeoJaedo, South Korea
+Nairobi, Kenya
 Bronx, New York, USA
 Brampton, Ontario, Canada
 Indore, MP, India
-Omdurman, Sudan 
+Omdurman, Sudan
 Nanchang, China
 Montpelier, Vermont
 Jaffna, Sri Lanka
@@ -140,6 +160,7 @@ Riverside, CA
 Greenville, Mississippi
 Oviedo, FL
 Vik, Iceland
+Kumba, Cameroon
 Karachi, Pakistan
 Sirsa, India
 Shahabad Markanda, India
@@ -151,20 +172,86 @@ Udaipur, Rajasthan
 Lucknow, India
 Visakhapatnam, India
 Victor Onyenma, Nigeria
-Jamshepur,India
-Burdwan,India
+Jamshepur, India
+Burdwan, India
 Vadodara, India
-Hooghly,India
-Singapore,Singapore
-Ipoh,Malaysia
-Sakarya,Turkey
+Hooghly, India
+Singapore, Singapore
+Ipoh, Malaysia
+Sakarya, Turkey
 Kathmandu,Nepal
 Minna, Niger State Nigeria
 Oyo, Nigeria
-Kampala,Uganda
+Kampala, Uganda
 Hoshiarpur, Punjab, India
 Norman, Oklahoma, United States
-Moore, OK
+Moore, Oklahoma
+San Francisco, California
 Warszawa, Poland
 Lowell, Arkansas
 San Antonio, Texas, United States
+Kaduna, Nigeria
+Bhubaneswar, India
+Buea, Cameroon
+Cabo San Lucas, Baja California Sur
+Windsor,Ontario
+Merrick, New York
+Poughkeepsie, New York, United States
+Hastings, United Kingdom
+Brampton, Ontario, Canada
+Virginia, USA
+Kathmandu, Nepal
+Annapolis, Maryland, United States
+Molepolole, Botswana
+Colorado, United States
+Jammu, India
+Bhopal, India
+Gurgaon, India
+Panchkula, India
+Delhi,India
+Pune, Maharashtra
+Lagos, Nigeria
+Manila, Philippines
+Rockville, Maryland, United States
+Minna, Nigeria
+New Delhi, India
+Modesto, California, United States
+Coastal-Bend, Texas , United States
+Hanoi, Vietnam
+Seattle, Washington, United States
+Brentwood, Tennessee, United States
+Lucknow, Uttar Pradesh, India
+Jaisalmer, Rajasthan, India
+Bangalore, Karnataka, India
+Howrah, West Bengal, India
+Chattisgarh, India
+Ellicott City, Maryland, United States
+Clifton, New Jersey, United States
+Tulsa, Oklahoma, United States
+Sandwich, Massachusetts, United States
+Quibdo, Colombia
+Pyongyang, North Korea
+Jiangsu, China
+Stillwater, Oklahoma, United State
+Moore, Oklahoma, United States
+Rogers, Arkansas, United States
+Moore, Oklahoma, United States
+Miami, Florida, United States
+Germantown, Maryland, United States
+Bangalore, Karnataka, India
+Bhopal, Madhya Pradesh, India
+Gurugram, Haryana, India
+Ambikaput, Chatthisgarh, India
+Muzaffarnagar, Uttar Pradesh, India
+Fatehpur Shekhawati, Rajasthan, India
+Prayagraj, Uttarpradesh, India
+Haryana, India
+South Extension, New Delhi, India
+Gurugram, Haryana, India
+Muzaffarnagar,Uttar Pradesh,India
+Long Beach, California, United States
+Kochi,Kerala,India
+Kannad,Maharashtra,India
+Mangalore, Karnataka, India
+Monterrey, Nuevo Leon, Mexico 
+Seattle, Washington, United States
