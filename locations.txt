@@ -255,4 +255,5 @@ Kannad,Maharashtra,India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
-Edo State, Nigeria
+Benin City, Nigeria
+Abuja, Nigeria
