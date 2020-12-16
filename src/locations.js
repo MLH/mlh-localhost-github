@@ -3,7 +3,7 @@ const NodeGeocoder = require("node-geocoder");
 
 const options = {
   provider: "google",
-  httpAdapter: "http",
+  httpAdapter: "https",
   apiKey: process.env.GOOGLE_API_KEY,
   sensor: true
 };
