@@ -4,6 +4,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 .hidden {
@@ -11,22 +12,29 @@ body {
 }
 
 .topbar-custom {
-  background: white;
+  background: black;
   border-bottom: 1px solid #ddd;
 }
 
 .flex-topbar {
-  align-items: baseline;
+  align-items: center;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 65%;
+  width: 100%;
 }
 
 .flex-topbar .navbar-text {
   font-size: 21px;
   font-weight: bold;
+  align-items: center;
+  margin-right: -9%;
 }
+
+.flex-topbar .secondLogo {
+  margin-left: 10%;
+  justify-content: right;
+} 
 
 .container {
   height: 100%;
