@@ -255,3 +255,6 @@ Kannad,Maharashtra,India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
+Csongrad, Hungary
+Oakland, California, USA
+Esfahan, Iran
