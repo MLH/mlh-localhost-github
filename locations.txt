@@ -271,6 +271,9 @@ Long Beach, California, United States
 Kochi,Kerala,India
 Kannad,Maharashtra,India
 Mangalore, Karnataka, India
+Monterrey, Nuevo Leon, Mexico 
+Seattle, Washington, United States
+Douglas, Isle of Man
 Monterrey, Nuevo Leon, Mexico
 Milton, Ontario, Canada
 Seattle, Washington, United Statesn
