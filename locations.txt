@@ -293,6 +293,7 @@ Montréal, Quebec, Canada
 Surrey, British Columbia 
 Mar del Plata, Argentina
 Lahore,Punjab,Pakistan
+Pittsburg, California, United States
 Clifton, Virginia, United States
 Shanghai, China
 Mumbai, Maharashtra, India
