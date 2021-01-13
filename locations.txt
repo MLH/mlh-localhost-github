@@ -274,6 +274,7 @@ Kannad,Maharashtra,India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
+Columbus, Ohio, USA
 New Jersey, United States
 Islamabad, Pakistan 
 Douglas, Isle of Man
