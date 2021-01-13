@@ -273,6 +273,7 @@ Kannad,Maharashtra,India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
+Islamabad, Pakistan 
 Douglas, Isle of Man
 Monterrey, Nuevo Leon, Mexico
 Milton, Ontario, Canada
