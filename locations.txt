@@ -265,6 +265,7 @@ Kannad,Maharashtra,India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
+Montréal, Quebec, Canada
 Surrey, British Columbia 
 Mar del Plata, Argentina
 Lahore,Punjab,Pakistan
