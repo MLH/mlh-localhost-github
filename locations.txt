@@ -275,6 +275,7 @@ Kannad,Maharashtra,India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
+Lahore, Pakistan
 Marie Byrd Landi, Antarctica
 Winter Park, Florida, United States
 Columbus, Ohio, USA
