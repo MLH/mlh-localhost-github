@@ -305,3 +305,8 @@ Lahore,Punjab,Pakistan
 Santa Clara, California, United States
 Calgary, Canada
 Richmond, Virginia, United States
+Douglas, Isle of Man
+Onchan, Isle of Man
+Laxey, Isle of Man
+Peel, Isle of Man
+Castletown, Isle of Man
