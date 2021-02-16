@@ -1,3 +1,4 @@
+Los Angeles, CA, USA
 Add-Irbid-Jordan-Hometown
 Irbid, Jordan
 Fremont, California, USA
@@ -6,6 +7,7 @@ California, USA
 Philadelphia, PA, USA
 Irvine, California
 Ambikapur, India
+Staten Island, New York, USA
 Saint Petersburg, Russia
 Durgapur, West Bengal, India
 Pune, Maharashtra
@@ -306,3 +308,6 @@ Santa Clara, California, United States
 Calgary, Canada
 Richmond, Virginia, United States
 California, USA
+Eldoret, Kenya
+Germantown, Maryland, United States
+Kisumu,Nyanza, Kenya
