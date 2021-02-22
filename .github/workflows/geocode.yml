@@ -9,8 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - run: npm install
-      - run: npm run geocode
+      - run: npm install; npm run geocode
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Geocoded newly added addresses

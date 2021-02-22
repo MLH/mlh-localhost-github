@@ -14,8 +14,8 @@ const getNewLocations = () => {
     fs.promises.readFile(LOCATIONS_PATH),
     fs.promises.readFile(COORDINATES_PATH)
   ]).then(([locations, coordinates]) => {
-    const locationLength = String(locations).split("\n").length;
-    const coordinateLength = String(coordinates).split("\n").length;
+    const locationLength = String(locations).replace(/\n+$/,"").split("\n").length;
+    const coordinateLength = String(coordinates).replace(/\n+$/,"").split("\n").length;
     console.log({locationLength, coordinateLength});
     return String(locations).split("\n").slice(coordinateLength);
   });
