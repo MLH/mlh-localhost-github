@@ -15,10 +15,15 @@ const getLocations = async function(addresses) {
     const locations = await geocoder
       .batchGeocode(addresses)
       .filter(({ error }) => !error)
-      .map(({ error, value: [result, ...results] }) => ({
-        lat: result.latitude,
-        lng: result.longitude
-      }));
+      .map(({ error, value: [result, ...results] }) => {
+        if(!result) {
+          return {lat: null, lng: null};
+        }
+        return {
+          lat: result.latitude,
+          lng: result.longitude
+        };
+      });
     return locations;
   } catch (error) {
     console.error(error);
