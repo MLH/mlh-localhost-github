@@ -7,6 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
+    "start": "npx static-server",
     "geocode": "node geocode.js"
   },
   "engines": {
@@ -28,5 +29,8 @@
     "express": "^4.16.4",
     "morgan": "^1.9.1",
     "node-geocoder": "^3.22.0"
+  },
+  "devDependencies": {
+    "static-server": "^2.2.1"
   }
 }

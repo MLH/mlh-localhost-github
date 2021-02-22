@@ -1,6 +1,5 @@
 require("dotenv").config();
 const path = require("path");
-const util = require("util");
 
 const Storage = require("./src/storage");
 const Locations = require("./src/locations");
