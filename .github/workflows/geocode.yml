@@ -17,5 +17,5 @@ jobs:
           commit_author: MLH Localhost <localhost@mlh.io>
       - uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.TOKEN }}
           branch: ${{ github.ref }}
