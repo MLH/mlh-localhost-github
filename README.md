@@ -38,8 +38,6 @@ Node library for geocoding and reverse geocoding.
 
 To use the Google Maps JavaScript API, you will ned an API Key. The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
 
-Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
-
 ## Adding a new location
 
 The App reads its locations from the `locations.txt` file located in the root folder. It will consider each line a different location, so the file should look something like this:
