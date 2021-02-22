@@ -10,26 +10,24 @@ const options = {
 
 const geocoder = NodeGeocoder(options);
 
-const getLocations = async function(addresses) {
-  try {
-    const locations = await geocoder
-      .batchGeocode(addresses)
-      .filter(({ error }) => !error)
-      .map(({ error, value: [result, ...results] }) => {
-        if(!result) {
-          return {lat: null, lng: null};
-        }
-        return {
-          lat: result.latitude,
-          lng: result.longitude
-        };
-      });
-    return locations;
-  } catch (error) {
-    console.error(error);
-  }
+const getCoordinates = function(locations) {
+    return geocoder
+      .batchGeocode(locations)
+      .then(coordinates => 
+        coordinates
+        .filter(({ error }) => !error)
+        .map(({ error, value: [result, ...results] }) => {
+          if(!result) {
+            return {lat: null, lng: null};
+          }
+          return {
+            lat: result.latitude,
+            lng: result.longitude
+          };
+        })
+      ).error(console.log);
 };
 
 module.exports = {
-  getLocations
+  getCoordinates
 };

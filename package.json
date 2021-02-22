@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "node index.js"
+    "geocode": "node geocode.js"
   },
   "engines": {
     "node": "10.x"
