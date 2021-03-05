@@ -1,7 +1,6 @@
 Add-Irbid-Jordan-Hometown
 Irbid, Jordan
 Fremont, California, USA
-master
 California, USA
 Philadelphia, PA, USA
 Irvine, California
@@ -308,4 +307,3 @@ Richmond, Virginia, United States
 Bellingham, WA
 Boulder, CO
 Irvine, California, United States
-State College, Pennsylvania
