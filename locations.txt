@@ -309,3 +309,7 @@ Bellingham, WA
 Boulder, CO
 Irvine, California, United States
 Princeton, New Jersey, United States
+Bristol, United Kingdom
+Sarnia, Ontario, Canada
+Summit, New Jersey, United States
+Toronto, Ontario, Canada
