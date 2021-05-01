@@ -210,5 +210,6 @@ Delhi, India
 Staten Island, New York, USA
 Tampa, Florida, USA
 Montreal, Canada
-Kuala lumpur, Malaysia,
 Markham, Canada
+Kuala lumpur, Malaysia
+Toronto, Ontario, Canada
