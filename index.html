@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta charset="utf-8" />
+    <title>MLH Localhost Map</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"/>
+    <link rel="stylesheet" href="static/style.css" />
+
+  </head>
+  <body>
+    <nav class="navbar fixed-top topbar-custom">
+      <div class="container-fluid">
+        <div class="navbar-header flex-topbar">
+          <a class="navbar-brand" href="#">
+            <img alt="mlh-logo" src="static/logo.svg" width="100px"/>
+          </a>
+          <p class="navbar-text">MLH Localhost Hometowns</p>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div id="map"></div>
+    </div>
+
+    <script>
+      function initMap() {
+        fetch('coordinates.json')
+          .then(response => response.json())
+          .then(locations => {
+            var bounds = new google.maps.LatLngBounds();
+
+            var map = new google.maps.Map(document.getElementById("map"), {
+              zoom: 3,
+              center: {lat: 0, lng: 0},
+              mapTypeId: "roadmap"
+            });
+
+            locations.forEach(function(location, i) {
+              const position = new google.maps.LatLng(location.lat, location.lng);
+              bounds.extend(position);
+
+              // Add a marker
+              new google.maps.Marker({ position, map});
+            });
+          });
+      }
+
+
+    </script>
+
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABQyfbLhgZnN1gxrdQor9fo7fPSIEcUmY&callback=initMap"></script>
+  </body>
+</html>
