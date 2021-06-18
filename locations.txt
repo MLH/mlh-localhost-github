@@ -143,6 +143,7 @@ San Francisco, California
 State College, Pennsylvania, United States
 Riverside, CA
 Greenville, Mississippi
+jaipur,india
 Oviedo, FL
 Vik, Iceland
 Kumba, Cameroon
