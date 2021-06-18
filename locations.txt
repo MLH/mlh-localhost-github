@@ -217,3 +217,9 @@ Winnipeg, Manitoba, Canada
 Scarborough, Ontario, Canada
 Toronto, Ontario, Canada
 Kingston, Jamaica
+JAIPUR,INDIA
+Edgewater, New Jersey, USA
+Accra, Ghana
+Andhra Pradesh, India
+Vancouver, British Columbia, Canada
+Vancouver, Ontario, Canada
