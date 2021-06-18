@@ -33,7 +33,6 @@ Goiania, Brazil
 Vienna, Austria
 Melbourne, Australia
 Osaka, Japan
-Andhra Pradesh, India.
 Calgary, Canada
 Sydney, Australia
 Vancouver, Canada
@@ -217,3 +216,4 @@ Flushing,NY,USA
 Winnipeg, Manitoba, Canada
 Scarborough, Ontario, Canada
 Toronto, Ontario, Canada
+Andhra Pradesh, India
