@@ -217,3 +217,5 @@ Winnipeg, Manitoba, Canada
 Scarborough, Ontario, Canada
 Toronto, Ontario, Canada
 Andhra Pradesh, India
+Vancouver, British Columbia, Canada
+Vancouver, Ontario, Canada
