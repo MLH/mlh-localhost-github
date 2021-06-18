@@ -216,6 +216,7 @@ Flushing,NY,USA
 Winnipeg, Manitoba, Canada
 Scarborough, Ontario, Canada
 Toronto, Ontario, Canada
+JAIPUR,INDIA
 Edgewater, New Jersey, USA
 Accra, Ghana
 Andhra Pradesh, India
