@@ -216,6 +216,7 @@ Flushing,NY,USA
 Winnipeg, Manitoba, Canada
 Scarborough, Ontario, Canada
 Toronto, Ontario, Canada
+Accra, Ghana
 Andhra Pradesh, India
 Vancouver, British Columbia, Canada
 Vancouver, Ontario, Canada
