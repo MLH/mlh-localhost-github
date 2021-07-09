@@ -70,7 +70,7 @@ Burlington, Massachusetts
 Marikostinovo, Bulgaria
 Pune, India
 Tulsa, Oklahoma
-Queens, Ny
+Queens, New York
 Bavaria, Germany
 Jamaica, New York
 Ambato, Ecuador
@@ -128,12 +128,12 @@ Ho Chi Minh City, Vietnam
 Can Tho, Vietnam
 St. Catharines, Canada
 Dzerzhinsk, Russia
-Streamwood, Untied States of America
+Streamwood, United States of America
 Quincy, Illinois
 Oswego, Illinois
 Maple Park, Illinois
 Elgin, Illinois
-Warrenville, IL
+Warrenville, Illinois
 Grayslake, Illinois
 Markham, Canada
 Beijing, China
@@ -155,7 +155,7 @@ Mushin, Lagos
 Chester Springs, PA
 CDMX, México
 Nashik, India
-bhusawal, India
+Bhusawal, India
 Nashik, Maharashtra
 Jalgone, India
 London, Ontario, Canada
@@ -226,7 +226,7 @@ Jammu, India
 Bhopal, India
 Gurgaon, India
 Panchkula, India
-Delhi,India
+Delhi, India
 Pune, Maharashtra
 Lagos, Nigeria
 Manila, Philippines
@@ -273,8 +273,8 @@ South Extension, New Delhi, India
 Gurugram, Haryana, India
 Muzaffarnagar,Uttar Pradesh,India
 Long Beach, California, United States
-Kochi,Kerala,India
-Kannad,Maharashtra,India
+Kochi, Kerala, India
+Kannad, Maharashtra, India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
@@ -304,7 +304,7 @@ Clifton, Virginia, United States
 Shanghai, China
 Mumbai, Maharashtra, India
 Mar del Plata, Argentina
-Lahore,Punjab,Pakistan
+Lahore, Punjab, Pakistan
 Santa Clara, California, United States
 Calgary, Canada
 Richmond, Virginia, United States
