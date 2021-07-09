@@ -6,11 +6,10 @@ This repository contains the source code for a map of the hometowns of anyone wh
 
 1. Make a GitHub account.
 2. Fork this repository.
-3. Add your hometown to `locations.txt`.
+3. Add your hometown to `locations.txt`, only adding one line.
 4. Commit your changes and make a pull request.
 5. Ask someone else to comment on your pull request.
-6. Wait for the workshop organizer to approve your pull request.
-7. Refresh the map!
+6. Refresh the map!
 
 ## Technologies used in this project
 
