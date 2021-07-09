@@ -1,6 +1,6 @@
 # MLH Localhost Hometown Map
 
-This repository contains the source code for a map of the hometowns of anyone who attends the MLH Localhost workshop, How to Collaborate on Code Projects with GitHub. Participants learn best practice GitHub workflows, add their hometown to `locations.txt`, and see the giant community they're part of!
+This repository contains the source code for a map of the hometowns of anyone who attends the MLH Localhost workshop, **How to Collaborate on Code Projects with GitHub**. Participants learn best practice GitHub workflows, add their hometown to `locations.txt`, and see the giant community they're part of!
 
 ## How to participate in this workshop
 
@@ -72,7 +72,7 @@ GOOGLE_API_KEY= # Google Maps API KEY
 Now inside the root folder run the following:
 
 ```
-npm geocode
+npm run geocode
 ```
 
 This will turn each line in the `locations.txt` into a set of coordinates.
