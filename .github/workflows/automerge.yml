@@ -8,7 +8,7 @@ jobs:
     steps:
       - id: automerge
         name: Automatically Merge PR
-        uses: maralihart/pr-auto-action@v1.1.0
+        uses: maralihart/pr-auto-action@v1.2.1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           filepath: 'locations.txt'
