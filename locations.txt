@@ -1,18 +1,18 @@
-Add-Irbid-Jordan-Hometown
 Irbid, Jordan
 Fremont, California, USA
-master
 California, USA
-Philadelphia, PA, USA
+Philadelphia, Pennsylvania
 Irvine, California
 Ambikapur, India
+Kansas City, Missouri
 Saint Petersburg, Russia
 Durgapur, West Bengal, India
 Pune, Maharashtra
 Indore, India
-Mumbai ,maharashtra
+Mumbai, Maharashtra
+Palm Springs, California
 Santo Domingo, Dominican Republic
-Kanpur,Uttar Pradesh
+Kanpur, Uttar Pradesh
 Panchkula, India
 Selangor, Malaysia
 CMDX, México
@@ -50,6 +50,7 @@ Calgary, Canada
 Sydney, Australia
 The South Pole
 Vancouver, Canada
+Charlottesville, Virginia
 Toronto, Canada
 Tokyo, Japan
 Kushiro, Japan
@@ -96,7 +97,7 @@ Lucknow, Uttar Pradesh, India
 Rockville, Maryland
 Sylhet, Bangladesh
 Hanmer, Canada
-Dehradun,Uttarakhand,India
+Dehradun, Uttarakhand,India
 Forks of Salmon, California
 Ahmedabad, India
 Simla, India
@@ -114,7 +115,7 @@ Fontainebleau, France
 Barisal, Bangladesh
 Bagerhat, Bangladesh
 Kingston, Canada
-Trichy,India
+Trichy, India
 Reading, Pennsylvania
 Mysore, India
 San Antonio, Texas
@@ -139,7 +140,7 @@ Kadapa, India
 Lagos, Nigeria
 Limassol, Cyprus
 Kolkata, India
-Kitale , Kenya
+Kitale, Kenya
 Prosotsani, Greece
 Tarija, Bolivia
 Viacha, Bolivia
@@ -152,9 +153,9 @@ Mushin, Lagos
 Chester Springs, PA
 CDMX, México
 Nashik, India
-bhusawal,india
-Nashik,Maharashtra
-Jalgone,India
+bhusawal, India
+Nashik, Maharashtra
+Jalgone, India
 London, Ontario, Canada
 Cambridge, MA
 Pleasanton, California
@@ -294,7 +295,7 @@ Ann Arbor, Michigan, USA
 Montréal, Quebec, Canada
 Surrey, British Columbia 
 Mar del Plata, Argentina
-Lahore,Punjab,Pakistan
+Lahore, Punjab, Pakistan
 Macau, China
 Pittsburg, California, United States
 Clifton, Virginia, United States
@@ -305,9 +306,11 @@ Lahore,Punjab,Pakistan
 Santa Clara, California, United States
 Calgary, Canada
 Richmond, Virginia, United States
-Bellingham, WA
-Boulder, CO
+Bellingham, Washington
+Boulder, Colorado
 Irvine, California, United States
 Calgary, Alberta, Canada
+Fairfax, Virginia
 Seattle, Washington
-Baltimore, Maryland
+Helena, Montana
+Dover, Delaware
