@@ -1,0 +1,17 @@
+name: Check PR can be merged
+on:
+  issue_comment:
+    types: [created]
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    steps:
+      - id: automerge
+        name: Automatically Merge PR
+        uses: maralihart/pr-auto-action@v1.1.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          filepath: 'locations.txt'
+          raw-link: 'https://raw.githubusercontent.com/maralihart/mlh-localhost-github/main/locations.txt'
+          file-link: 'https://api.github.com/repos/maralihart/mlh-localhost-github/contents/locations.txt'
+          email: 'hi@mara.fyi'
