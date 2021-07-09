@@ -12,6 +12,6 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           filepath: 'locations.txt'
-          raw-link: 'https://raw.githubusercontent.com/maralihart/mlh-localhost-github/main/locations.txt'
+          raw-link: 'https://raw.githubusercontent.com/maralihart/mlh-localhost-github/master/locations.txt'
           file-link: 'https://api.github.com/repos/maralihart/mlh-localhost-github/contents/locations.txt'
           email: 'hi@mara.fyi'
