@@ -1,13 +1,14 @@
 {
   "name": "maps",
   "version": "1.0.0",
-  "description": "display participant locations in a map",
+  "description": "Display participant locations in a map",
   "main": "server.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "npx static-server",
+    "geocode": "node geocode.js"
   },
   "engines": {
     "node": "10.x"
@@ -16,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/MLH/localhost-github.git"
   },
-  "author": "Halisson Bruno",
+  "author": "Major League Hacking",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MLH/localhost-github/issues"
@@ -28,5 +29,8 @@
     "express": "^4.16.4",
     "morgan": "^1.9.1",
     "node-geocoder": "^3.22.0"
+  },
+  "devDependencies": {
+    "static-server": "^2.2.1"
   }
 }

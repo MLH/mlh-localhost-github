@@ -1,4 +1,5 @@
 # MLH Localhost Hometown Map
+
 This repository contains the source code for a map of the hometowns of anyone who attends the MLH Localhost workshop, How to Collaborate on Code Projects with GitHub. Participants learn best practice GitHub workflows, add their hometown to `locations.txt`, and see the giant community they're part of!
 
 ## How to participate in this workshop
@@ -13,36 +14,29 @@ This repository contains the source code for a map of the hometowns of anyone wh
 
 ## Technologies used in this project
 
-### NodeJS
+### [GitHub Actions](https://github.com/features/actions)
+GitHub actions allows us to run a [NodeJS script](#nodejs) automatically when a commit is pushed to the project. That script takes all the locations provided and turns them into latitude & longitude coordinates.
 
-The map itself is a Node.js application. Node.js allows us to write full-stack
+### [GitHub Pages](https://pages.github.com/)
+GitHub pages lets us host our map on GitHub as a webpage.
 
-## NPM packages used
+### [NodeJS](https://nodejs.org)
 
-### [express](https://www.npmjs.com/package/express)
+We chose to use NodeJS as the language to turn all the hometown names into coordinates. 
 
-Fast, unopinionated, minimalist web framework for node. This is the framework with which we built the application.
-
-### [dotenv](https://www.npmjs.com/package/dotenv)
+#### [dotenv](https://www.npmjs.com/package/dotenv)
 
 Dotenv is a zero-dependency module that loads environment variables from a `.env` file into `process.env`. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
 
-### [node-geocoder](https://www.npmjs.com/package/node-geocoder)
+#### [node-geocoder](https://www.npmjs.com/package/node-geocoder)
 
 Node library for geocoding and reverse geocoding.
-
-### [ejs](https://www.npmjs.com/package/ejs)
-
-Embedded JavaScript templates
 
 ## Try the application locally, if you want!
 
 ### Google Maps API Key
 
-To use the Google Maps JavaScript API, you will ned an API Key.  The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
-
-Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
-
+To use the Google Maps JavaScript API, you will ned an API Key. The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
 
 ## Adding a new location
 
@@ -56,31 +50,36 @@ Japan
 
 To add a new location, simply append a new line to the locations.txt file
 
-There is also a `locations.txt.example` file that can be used to test the app. Copy its content to locations.txt and restart the app.
-
 ## Running the application:
 
 To run this application locally, you'll need to:
 
-* Clone this repository:
+- Clone this repository:
+
 ```
 git clone https://github.com/MLH/mlh-localhost-github.git
 cd localhost-github
 npm install
 ```
 
-* Set up environment variables:
+- Set up environment variables:
 
 There is a `.env.example` file that can be used to configure the app. Simply create a copy named `.env`
 
 ```txt
-PORT= # Port to be used by the app
-API_KEY= # Google Maps API KEY
+GOOGLE_API_KEY= # Google Maps API KEY
 ```
 
-Now inside the root folder run:
+Now inside the root folder run the following:
+
+```
+npm geocode
+```
+
+This will turn each line in the `locations.txt` into a set of coordinates.
+
+You can see your own map by running:
+
 ```
 npm start
 ```
-
-Now you can access locally in your browser the address  `http://localhost:3000` and see your locations map.
