@@ -314,3 +314,4 @@ Calgary, Alberta, Canada
 Seattle, Washington
 Toronto, Ontario, Canada
 London, United Kingdom
+Turin, Italy
