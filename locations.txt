@@ -313,3 +313,4 @@ Irvine, California, United States
 Calgary, Alberta, Canada
 Seattle, Washington
 London, United Kingdom
+Turin, Italy
