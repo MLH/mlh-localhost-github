@@ -218,6 +218,7 @@ Flushing,NY,USA
 Winnipeg, Manitoba, Canada
 Scarborough, Ontario, Canada
 Toronto, Ontario, Canada
+Newcastle Upon Tyne, UK
 Kingston, Jamaica
 JAIPUR,INDIA
 Edgewater, New Jersey, USA
