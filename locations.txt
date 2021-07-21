@@ -1,3 +1,4 @@
+Nagpur, Maharashtra, India
 Pune, Maharashtra
 indore, India
 Mumbai ,maharashtra
@@ -143,6 +144,7 @@ San Francisco, California
 State College, Pennsylvania, United States
 Riverside, CA
 Greenville, Mississippi
+jaipur,india
 Oviedo, FL
 Vik, Iceland
 Kumba, Cameroon
@@ -217,3 +219,14 @@ Winnipeg, Manitoba, Canada
 Scarborough, Ontario, Canada
 Toronto, Ontario, Canada
 Newcastle Upon Tyne, UK
+Kingston, Jamaica
+JAIPUR,INDIA
+Edgewater, New Jersey, USA
+Accra, Ghana
+Andhra Pradesh, India
+Vancouver, British Columbia, Canada
+Vancouver, Ontario, Canada
+Ihima, Kogi, Nigeria 
+Trowbridge, Wiltshire, United Kingdom
+Nanaimo, British Columbia, Canada
+Regina, Saskatchewan, Canada
