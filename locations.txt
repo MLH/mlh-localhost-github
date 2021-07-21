@@ -1,3 +1,4 @@
+Nagpur, Maharashtra, India
 Pune, Maharashtra
 indore, India
 Mumbai ,maharashtra
@@ -225,3 +226,6 @@ Andhra Pradesh, India
 Vancouver, British Columbia, Canada
 Vancouver, Ontario, Canada
 Ihima, Kogi, Nigeria 
+Trowbridge, Wiltshire, United Kingdom
+Nanaimo, British Columbia, Canada
+Regina, Saskatchewan, Canada
