@@ -314,7 +314,6 @@ Irvine, California, United States
 Calgary, Alberta, Canada
 Fairfax, Virginia
 Seattle, Washington
-Helena, Montana
-Dover, Delaware
-Baltimore, Maryland
-Boise, Idaho
+Toronto, Ontario, Canada
+London, United Kingdom
+Turin, Italy
