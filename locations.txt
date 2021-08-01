@@ -309,6 +309,7 @@ Calgary, Canada
 Richmond, Virginia, United States
 Bellingham, WA
 Boulder, CO
+Alappuzha, Kerala, India
 Irvine, California, United States
 Calgary, Alberta, Canada
 Seattle, Washington
@@ -318,4 +319,3 @@ Turin, Italy
 Santacruz,Mumbai,Maharashtra
 Mumbai, India
 Washington, DC, United States
-
