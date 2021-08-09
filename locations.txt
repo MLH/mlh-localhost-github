@@ -12,6 +12,7 @@ Durgapur, West Bengal, India
 Pune, Maharashtra
 Indore, India
 Mumbai ,maharashtra
+Palm Springs, California
 Santo Domingo, Dominican Republic
 Kanpur,Uttar Pradesh
 Panchkula, India
@@ -51,6 +52,7 @@ Calgary, Canada
 Sydney, Australia
 The South Pole
 Vancouver, Canada
+Charlottesville, Virginia
 Toronto, Canada
 Tokyo, Japan
 Kushiro, Japan
@@ -316,3 +318,11 @@ Bristol, United Kingdom
 Sarnia, Ontario, Canada
 Summit, New Jersey, United States
 Toronto, Ontario, Canada
+Calgary, Alberta, Canada
+Seattle, Washington
+Toronto, Ontario, Canada
+London, United Kingdom
+Turin, Italy
+Santacruz,Mumbai,Maharashtra
+Mumbai, India
+Washington, DC, United States
