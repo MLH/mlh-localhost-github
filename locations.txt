@@ -1,5 +1,6 @@
 Add-Irbid-Jordan-Hometown
 Irbid, Jordan
+Perris, Lewis
 Fremont, California, USA
 master
 California, USA
@@ -132,6 +133,7 @@ Quincy, Illinois
 Oswego, Illinois
 Maple Park, Illinois
 Elgin, Illinois
+Tokyo, Japan
 Warrenville, IL
 Grayslake, Illinois
 Markham, Canada
@@ -141,6 +143,7 @@ Kadapa, India
 Lagos, Nigeria
 Limassol, Cyprus
 Kolkata, India
+Nagasaki, Japan
 Kitale , Kenya
 Prosotsani, Greece
 Tarija, Bolivia
@@ -310,6 +313,11 @@ Richmond, Virginia, United States
 Bellingham, WA
 Boulder, CO
 Irvine, California, United States
+Princeton, New Jersey, United States
+Bristol, United Kingdom
+Sarnia, Ontario, Canada
+Summit, New Jersey, United States
+Toronto, Ontario, Canada
 Calgary, Alberta, Canada
 Seattle, Washington
 Toronto, Ontario, Canada
@@ -318,4 +326,3 @@ Turin, Italy
 Santacruz,Mumbai,Maharashtra
 Mumbai, India
 Washington, DC, United States
-
