@@ -10,9 +10,11 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"/>
     <link rel="stylesheet" href="static/style.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-    <link rel="stylesheet" href="http://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.css">
-    <link rel="stylesheet" href="http://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.1.0/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.1.0/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v1.7.1/leaflet.css" />
+    <link rel="stylesheet" href="http://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="http://leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css" />
   </head>
   <body>
     <nav class="navbar fixed-top topbar-custom">
@@ -31,10 +33,8 @@
     </div>
 
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
-    <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
     <script src="http://ghybs.github.io/Leaflet.MarkerCluster.LayerSupport/leaflet.markercluster.layersupport-src.js"></script>
-
+    <script src="https://unpkg.com/leaflet.markercluster@1.1.0/dist/leaflet.markercluster.js"></script>
     <script>
       function initMap() {
         var mymap = L.map('map').setView([50, 0], 2);
@@ -57,8 +57,10 @@
           .then(response => response.json())
           .then(locations => {
             locations.forEach(function(location, i) {
-              markers.addLayer(L.marker([location.lat, location.lng]));
-            })
+              if (location.lat != null) {
+                markers.addLayer(L.marker([location.lat, location.lng]));
+              }
+            });
           });
         map.addLayer(markers);
       }
