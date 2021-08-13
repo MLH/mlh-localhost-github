@@ -1,19 +1,19 @@
-Add-Irbid-Jordan-Hometown
 Irbid, Jordan
 Fremont, California, USA
-master
 California, USA
-Philadelphia, PA, USA
+Philadelphia, Pennsylvania
 Irvine, California
 Ambikapur, India
+San Diego, California
+Kansas City, Missouri
 Saint Petersburg, Russia
 Durgapur, West Bengal, India
 Pune, Maharashtra
 Indore, India
-Mumbai ,maharashtra
+Mumbai, Maharashtra
 Palm Springs, California
 Santo Domingo, Dominican Republic
-Kanpur,Uttar Pradesh
+Kanpur, Uttar Pradesh
 Panchkula, India
 Selangor, Malaysia
 CMDX, México
@@ -61,6 +61,7 @@ Miami, Florida
 Barnstable, Massachusetts
 Hanover, Massachusetts
 Cape Elizabeth, Maine
+Chengdu, China
 Guangdong, China
 Shanghai, China
 Boston, Massachusetts
@@ -69,7 +70,7 @@ Burlington, Massachusetts
 Marikostinovo, Bulgaria
 Pune, India
 Tulsa, Oklahoma
-Queens, Ny
+Queens, New York
 Bavaria, Germany
 Jamaica, New York
 Ambato, Ecuador
@@ -98,7 +99,7 @@ Lucknow, Uttar Pradesh, India
 Rockville, Maryland
 Sylhet, Bangladesh
 Hanmer, Canada
-Dehradun,Uttarakhand,India
+Dehradun, Uttarakhand,India
 Forks of Salmon, California
 Ahmedabad, India
 Simla, India
@@ -116,7 +117,7 @@ Fontainebleau, France
 Barisal, Bangladesh
 Bagerhat, Bangladesh
 Kingston, Canada
-Trichy,India
+Trichy, India
 Reading, Pennsylvania
 Mysore, India
 San Antonio, Texas
@@ -127,12 +128,12 @@ Ho Chi Minh City, Vietnam
 Can Tho, Vietnam
 St. Catharines, Canada
 Dzerzhinsk, Russia
-Streamwood, Untied States of America
+Streamwood, United States of America
 Quincy, Illinois
 Oswego, Illinois
 Maple Park, Illinois
 Elgin, Illinois
-Warrenville, IL
+Warrenville, Illinois
 Grayslake, Illinois
 Markham, Canada
 Beijing, China
@@ -141,7 +142,7 @@ Kadapa, India
 Lagos, Nigeria
 Limassol, Cyprus
 Kolkata, India
-Kitale , Kenya
+Kitale, Kenya
 Prosotsani, Greece
 Tarija, Bolivia
 Viacha, Bolivia
@@ -154,9 +155,9 @@ Mushin, Lagos
 Chester Springs, PA
 CDMX, México
 Nashik, India
-bhusawal,india
-Nashik,Maharashtra
-Jalgone,India
+Bhusawal, India
+Nashik, Maharashtra
+Jalgone, India
 London, Ontario, Canada
 Cambridge, MA
 Pleasanton, California
@@ -225,7 +226,7 @@ Jammu, India
 Bhopal, India
 Gurgaon, India
 Panchkula, India
-Delhi,India
+Delhi, India
 Pune, Maharashtra
 Lagos, Nigeria
 Manila, Philippines
@@ -272,8 +273,8 @@ South Extension, New Delhi, India
 Gurugram, Haryana, India
 Muzaffarnagar,Uttar Pradesh,India
 Long Beach, California, United States
-Kochi,Kerala,India
-Kannad,Maharashtra,India
+Kochi, Kerala, India
+Kannad, Maharashtra, India
 Mangalore, Karnataka, India
 Monterrey, Nuevo Leon, Mexico 
 Seattle, Washington, United States
@@ -296,21 +297,22 @@ Ann Arbor, Michigan, USA
 Montréal, Quebec, Canada
 Surrey, British Columbia 
 Mar del Plata, Argentina
-Lahore,Punjab,Pakistan
+Lahore, Punjab, Pakistan
 Macau, China
 Pittsburg, California, United States
 Clifton, Virginia, United States
 Shanghai, China
 Mumbai, Maharashtra, India
 Mar del Plata, Argentina
-Lahore,Punjab,Pakistan
+Lahore, Punjab, Pakistan
 Santa Clara, California, United States
 Calgary, Canada
 Richmond, Virginia, United States
-Bellingham, WA
-Boulder, CO
+Bellingham, Washington
+Boulder, Colorado
 Irvine, California, United States
 Calgary, Alberta, Canada
+Fairfax, Virginia
 Seattle, Washington
 Toronto, Ontario, Canada
 London, United Kingdom
