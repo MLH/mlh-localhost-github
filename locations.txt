@@ -7,6 +7,7 @@ Philadelphia, PA, USA
 Irvine, California
 Ambikapur, India
 Saint Petersburg, Russia
+Kolkata, India
 Durgapur, West Bengal, India
 Pune, Maharashtra
 Indore, India
@@ -318,4 +319,4 @@ Turin, Italy
 Santacruz,Mumbai,Maharashtra
 Mumbai, India
 Washington, DC, United States
-Giridih, Jharkhand, India
+Giridih, Jharkhand,India
