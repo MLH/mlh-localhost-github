@@ -7,6 +7,7 @@ Philadelphia, PA, USA
 Irvine, California
 Ambikapur, India
 Saint Petersburg, Russia
+Kolkata, India
 Durgapur, West Bengal, India
 Pune, Maharashtra
 Indore, India
@@ -320,3 +321,5 @@ Mumbai, India
 Washington, DC, United States
 Monclova, Coahuila, Mexico
 San Buenaventura, Coahuila, Mexico
+jhapa, Nepal
+Cedar Rapids, Iowa, United States
