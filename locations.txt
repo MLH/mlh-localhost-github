@@ -1,3 +1,4 @@
+Rourkela , Odisha , India 
 Dublin, Ireland
 Add-Irbid-Jordan-Hometown
 Irbid, Jordan
@@ -93,8 +94,10 @@ La Paz, Bolivia
 Parsippany, New Jersey
 Haworth, New Jersey
 Dhaka, Bangladesh
+Bellevue, Washington, USA
 Huntington, New York
 Houston, Texas
+Edmonton, Alberta, Canada
 New York, NY
 Lucknow, Uttar Pradesh, India
 Rockville, Maryland
@@ -324,3 +327,6 @@ jhapa, Nepal
 Cedar Rapids, Iowa, United States
 Atlanta, Georgia
 Deulgaon Raja, Maharashtra, India
+Conakry, Guinea
+Kinshasa, DR Congo
+Ouagadougou, Burkina Faso
