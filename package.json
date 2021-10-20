@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GDSC-AMU/mlh-localhost-github.git"
+    "url": "git+https://github.com/MLH/localhost-github.git"
   },
   "author": "Major League Hacking",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GDSC-AMU/mlh-localhost-github/issues"
+    "url": "https://github.com/MLH/localhost-github/issues"
   },
-  "homepage": "https://github.com/GDSC-AMU/mlh-localhost-github#readme",
+  "homepage": "https://github.com/MLH/localhost-github#readme",
   "dependencies": {
     "dotenv": "^6.2.0",
     "ejs": "^2.6.1",
