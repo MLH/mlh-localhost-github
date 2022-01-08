@@ -316,6 +316,7 @@ Mar del Plata, Argentina
 Lahore,Punjab,Pakistan
 Santa Clara, California, United States
 Calgary, Canada
+Calgary, AB, Canada
 Richmond, Virginia, United States
 Bellingham, WA
 Boulder, CO
