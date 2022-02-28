@@ -1,6 +1,7 @@
 Rourkela , Odisha , India 
 Dublin, Ireland
 Add-Irbid-Jordan-Hometown
+PortHarcourt, Nigeria
 Irbid, Jordan
 Fremont, California, USA
 master
@@ -26,6 +27,7 @@ CMDX, México
 Phagwara, India
 Illinois, United States
 Rajasthan, India
+Owerri, Nigeria
 Goa, India
 Tehran, Iran
 Jalandhar, India
