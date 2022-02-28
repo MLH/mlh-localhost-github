@@ -42,6 +42,7 @@ Denver, Colorado
 Butler, Pennsylvania
 Moscow, Russia
 Milwaukee, Wisconsin
+Lagos,Nigeria
 Elmhurst, Illinois
 Smithtown, New York
 Moscow, Russia
@@ -260,6 +261,7 @@ Sandwich, Massachusetts, United States
 Quibdo, Colombia
 Pyongyang, North Korea
 Jiangsu, China
+Lagos,Nigeria
 Stillwater, Oklahoma, United State
 Moore, Oklahoma, United States
 Rogers, Arkansas, United States
