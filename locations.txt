@@ -308,6 +308,7 @@ Surrey, British Columbia
 Mar del Plata, Argentina
 Lahore,Punjab,Pakistan
 Macau, China
+St. John's, Canada
 Pittsburg, California, United States
 Clifton, Virginia, United States
 Shanghai, China
