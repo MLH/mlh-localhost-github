@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>My Profile</title>
+</head>
+<body bgcolor="Purple">
+  
+<h1 Align = "Center">Katsina State Institute of Technology and Management, KSITM</h1>
+
+<p>
+ <img src= "C:\Users\user\Desktop\New folder\Sadeee.jpg" width="200"> 
+</p>
+
+<body>
+  <h2>
+    <ul>
+    <li> Name: Sadeeq Muhammad Sada </li>
+    <li> Reg: NID/CSE/20/0203</li>
+    <li> School: Katsina State Institute of Technology and Management, KSITM</li>
+    <li> Department: Computer Software Engineering Technology</li>
+    <li> State: Katsina State </li>
+    <li> Local Government: Rimi </li>
+  </ul>
+   
+  </h2>
+  
+</body>
+
+
+
