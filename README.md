@@ -47,6 +47,7 @@ New York, USA
 Brazil
 Japan
 ```
+--India
 
 To add a new location, simply append a new line to the locations.txt file
 
