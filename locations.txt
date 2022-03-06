@@ -338,3 +338,8 @@ Motihari, Bihar, India
 Ottawa, Ontario, Canada
 Bangalore, India
 Montgomery, Texas, United States
+Fort Collins, Colorado
+Greeley, Colorado
+Loveland, Colorado
+Denver, Colorado
+Glenwood Springs, Colorado
